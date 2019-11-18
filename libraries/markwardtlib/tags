@@ -1,0 +1,115 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+SetFitParm	setfitparm.pro	/^Function SetFitParm,	thisFParm,\$$/;"	f
+SetFitParm_Events	setfitparm.pro	/^Pro SetFitParm_Events, event$/;"	p
+cephes_erf	mpnormtest.pro	/^function cephes_erf, x$/;"	f
+cephes_erfc	mpnormtest.pro	/^function cephes_erfc, a$/;"	f
+cephes_igam	mpchilim.pro	/^function cephes_igam, a, x$/;"	f
+cephes_igam	mpchitest.pro	/^function cephes_igam, a, x$/;"	f
+cephes_igamc	mpchilim.pro	/^function cephes_igamc, a, x$/;"	f
+cephes_igamc	mpchitest.pro	/^function cephes_igamc, a, x$/;"	f
+cephes_igami	mpchilim.pro	/^function cephes_igami, a, y0$/;"	f
+cephes_incbcf	mpftest.pro	/^function cephes_incbcf, a, b, x$/;"	f
+cephes_incbd	mpftest.pro	/^function cephes_incbd, a, b, x$/;"	f
+cephes_incbet	mpftest.pro	/^function cephes_incbet, aa, bb, xx$/;"	f
+cephes_ndtri	mpchilim.pro	/^function cephes_ndtri, y0$/;"	f
+cephes_ndtri	mpnormlim.pro	/^function cephes_ndtri, y0$/;"	f
+cephes_polevl	mpchilim.pro	/^function cephes_polevl, x, coef$/;"	f
+cephes_polevl	mpnormlim.pro	/^function cephes_polevl, x, coef$/;"	f
+cephes_polevl	mpnormtest.pro	/^function cephes_polevl, x, coef$/;"	f
+cephes_pseries	mpftest.pro	/^function cephes_pseries, a, b, x$/;"	f
+cephes_set_erf_common	mpnormtest.pro	/^pro cephes_set_erf_common$/;"	p
+cephes_setmachar	mpchilim.pro	/^pro cephes_setmachar$/;"	p
+cephes_setmachar	mpchitest.pro	/^pro cephes_setmachar$/;"	p
+cephes_setmachar	mpftest.pro	/^pro cephes_setmachar$/;"	p
+cephes_setmachar	mpnormlim.pro	/^pro cephes_setmachar$/;"	p
+cephes_setmachar	mpnormtest.pro	/^pro cephes_setmachar$/;"	p
+defsubcell	defsubcell.pro	/^function defsubcell, default$/;"	f
+gauss1	gauss1.pro	/^function gauss1, x, p, skew=skew, peak=peak, _EXTRA=extra$/;"	f
+gauss1p	gauss1p.pro	/^pro gauss1p, x, p, f, skew=skew, _EXTRA=extra$/;"	p
+gauss2	gauss2.pro	/^function gauss2, x, y, p, _EXTRA=extra$/;"	f
+linfitex	linfitex.pro	/^function linfitex, p, \$$/;"	f
+mpchilim	mpchilim.pro	/^function mpchilim, p, dof, sigma=sigma, clevel=clevel, slevel=slevel$/;"	f
+mpchitest	mpchitest.pro	/^function mpchitest, x, dof, slevel=slevel, clevel=clevel, sigma=sigma$/;"	f
+mpcurvefit	mpcurvefit.pro	/^function mpcurvefit, x, y, wts, p, perror, function_name=fcn, \$$/;"	f
+mpcurvefit_eval	mpcurvefit.pro	/^function mpcurvefit_eval, p, dp, _EXTRA=extra$/;"	f
+mpevalexpr	mpfitexpr.pro	/^function mpevalexpr, _expr, x, p, functargs=private$/;"	f
+mpfit	mpfit.pro	/^function mpfit, fcn, xall, FUNCTARGS=fcnargs, SCALE_FCN=scalfcn, \$$/;"	f
+mpfit2dfun	mpfit2dfun.pro	/^function mpfit2dfun, fcn, x, y, z, err, p, WEIGHTS=wts, FUNCTARGS=fa, \$$/;"	f
+mpfit2dfun_eval	mpfit2dfun.pro	/^function mpfit2dfun_eval, p, dp, _EXTRA=extra$/;"	f
+mpfit2dpeak	mpfit2dpeak.pro	/^function mpfit2dpeak, z, a, x, y, estimates=est, tilt=tilt, \$$/;"	f
+mpfit2dpeak_gauss	mpfit2dpeak.pro	/^function mpfit2dpeak_gauss, x, y, p, tilt=tilt, symmetric=sym, _extra=extra$/;"	f
+mpfit2dpeak_lorentz	mpfit2dpeak.pro	/^function mpfit2dpeak_lorentz, x, y, p, tilt=tilt, symmetric=sym, _extra=extra$/;"	f
+mpfit2dpeak_moffat	mpfit2dpeak.pro	/^function mpfit2dpeak_moffat, x, y, p, tilt=tilt, symmetric=sym, _extra=extra$/;"	f
+mpfit2dpeak_u	mpfit2dpeak.pro	/^function mpfit2dpeak_u, x, y, p, tilt=tilt, symmetric=sym$/;"	f
+mpfit_call	mpfit.pro	/^function mpfit_call, fcn, x, fjac, _EXTRA=extra$/;"	f
+mpfit_call_func_extra	mpfit.pro	/^function mpfit_call_func_extra, fcn, x, fjac, _EXTRA=extra$/;"	f
+mpfit_call_func_noextra	mpfit.pro	/^function mpfit_call_func_noextra, fcn, x, fjac, _EXTRA=extra$/;"	f
+mpfit_call_pro_extra	mpfit.pro	/^function mpfit_call_pro_extra, fcn, x, fjac, _EXTRA=extra$/;"	f
+mpfit_call_pro_noextra	mpfit.pro	/^function mpfit_call_pro_noextra, fcn, x, fjac, _EXTRA=extra$/;"	f
+mpfit_covar	mpfit.pro	/^function mpfit_covar, rr, ipvt, tol=tol$/;"	f
+mpfit_defiter	mpfit.pro	/^pro mpfit_defiter, fcn, x, iter, fnorm, FUNCTARGS=fcnargs, \$$/;"	p
+mpfit_defprint	mpfit.pro	/^pro mpfit_defprint, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, \$$/;"	p
+mpfit_dummy	mpfit.pro	/^pro mpfit_dummy$/;"	p
+mpfit_enorm	mpfit.pro	/^function mpfit_enorm, vec$/;"	f
+mpfit_fdjac2	mpfit.pro	/^function mpfit_fdjac2, fcn, x, fvec, step, ulimited, ulimit, dside, \$$/;"	f
+mpfit_lmpar	mpfit.pro	/^function mpfit_lmpar, r, ipvt, diag, qtb, delta, x, sdiag, par=par$/;"	f
+mpfit_min_version	mpfit.pro	/^function mpfit_min_version, version, min_version$/;"	f
+mpfit_parinfo	mpfit.pro	/^pro mpfit_parinfo, parinfo, tnames, tag, values, default=def, status=status, \$$/;"	p
+mpfit_parse_version	mpfit.pro	/^function mpfit_parse_version, version$/;"	f
+mpfit_qrfac	mpfit.pro	/^pro mpfit_qrfac, a, ipvt, rdiag, acnorm, pivot=pivot$/;"	p
+mpfit_qrsolv	mpfit.pro	/^pro mpfit_qrsolv, r, ipvt, diag, qtb, x, sdiag$/;"	p
+mpfit_resetprof	mpfit.pro	/^pro mpfit_resetprof$/;"	p
+mpfit_revision	mpfit.pro	/^function mpfit_revision$/;"	f
+mpfit_setmachar	mpfit.pro	/^pro mpfit_setmachar, double=isdouble$/;"	p
+mpfit_tie	mpfit.pro	/^pro mpfit_tie, p, _ptied$/;"	p
+mpfitellipse	mpfitellipse.pro	/^function mpfitellipse, x, y, p0, WEIGHTS=wts, \$$/;"	f
+mpfitellipse_eval	mpfitellipse.pro	/^function mpfitellipse_eval, p, tilt=tilt, circle=circle, _EXTRA=extra$/;"	f
+mpfitellipse_u	mpfitellipse.pro	/^function mpfitellipse_u, x, y, p, tilt=tilt, circle=circle$/;"	f
+mpfitexpr	mpfitexpr.pro	/^function mpfitexpr, expr, x, y, err, p, WEIGHTS=wts, \$$/;"	f
+mpfitexpr_eval	mpfitexpr.pro	/^function mpfitexpr_eval, p, _EXTRA=private$/;"	f
+mpfitfun	mpfitfun.pro	/^function mpfitfun, fcn, x, y, err, p, WEIGHTS=wts, FUNCTARGS=fa, \$$/;"	f
+mpfitfun_cash	mpfitfun.pro	/^pro mpfitfun_cash, resid, dresid$/;"	p
+mpfitfun_eval	mpfitfun.pro	/^function mpfitfun_eval, p, dp, _EXTRA=extra$/;"	f
+mpfitpeak	mpfitpeak.pro	/^function mpfitpeak, x, y, a, estimates=est, nterms=nterms, \$$/;"	f
+mpfitpeak_gauss	mpfitpeak.pro	/^function mpfitpeak_gauss, x, p, _extra=extra$/;"	f
+mpfitpeak_lorentz	mpfitpeak.pro	/^function mpfitpeak_lorentz, x, p, _extra=extra$/;"	f
+mpfitpeak_moffat	mpfitpeak.pro	/^function mpfitpeak_moffat, x, p, _extra=extra$/;"	f
+mpfitpeak_u	mpfitpeak.pro	/^function mpfitpeak_u, x, p$/;"	f
+mpftest	mpftest.pro	/^function mpftest, x, nu1, nu2, slevel=slevel, clevel=clevel, sigma=sigma$/;"	f
+mpnormlim	mpnormlim.pro	/^function mpnormlim, p, clevel=clevel, slevel=slevel$/;"	f
+mpnormtest	mpnormtest.pro	/^function mpnormtest, a, clevel=clevel, slevel=slevel$/;"	f
+oplotbin	oplotbin.pro	/^pro oplotbin, x0, y0, width=width, pixcenter=pixcenter, logclip=logclip, \$$/;"	p
+oplotimage	oplotimage.pro	/^pro oplotimage, img, \$$/;"	p
+plotbin	plotbin.pro	/^pro plotbin, x0, y0, width=width, pixcenter=pixcenter, plotvert=plotvert, \$$/;"	p
+plotcolorfill	plotcolorfill.pro	/^pro plotcolorfill, x0, y0, color=col, bottom=bot, width=width, \$$/;"	p
+plotcube	plotcube.pro	/^pro plotcube, x, y, z, \$$/;"	p
+plotimage	plotimage.pro	/^pro plotimage, img0, xrange=xrange0, yrange=yrange0, \$$/;"	p
+plotimage_pos	plotimage.pro	/^pro plotimage_pos, xrange0, imgxrange0, imgxsize, xreverse, srcxpix, imgxpanel, \$$/;"	p
+plotimage_resamp	plotimage.pro	/^function plotimage_resamp, image, nx, ny, bdepth, newx, newy, interp=interp$/;"	f
+plotpan	plotpan.pro	/^pro plotpan, x, y, \$$/;"	p
+subcell	subcell.pro	/^function subcell, subpos, position, margin=margin$/;"	f
+subcellarray	subcellarray.pro	/^pro subcellarray, xdivs, ydivs, newpanels, newsubpanels, \$$/;"	p
+tnmin	tnmin.pro	/^function tnmin, fcn, xall, fguess=fguess, functargs=fcnargs, parinfo=parinfo, \$$/;"	f
+tnmin_autoder	tnmin.pro	/^function tnmin_autoder, fcn, x, dx, dside=dside$/;"	f
+tnmin_call	tnmin.pro	/^function tnmin_call, fcn, x1, dx, fullparam_=xall$/;"	f
+tnmin_defiter	tnmin.pro	/^pro tnmin_defiter, fcn, x, iter, fnorm, fmt=fmt, FUNCTARGS=fcnargs, \$$/;"	p
+tnmin_dummy	tnmin.pro	/^pro tnmin_dummy$/;"	p
+tnmin_enorm	tnmin.pro	/^function tnmin_enorm, vec$/;"	f
+tnmin_fix	tnmin.pro	/^pro tnmin_fix, whlpeg, whupeg, z$/;"	p
+tnmin_getptc	tnmin.pro	/^pro tnmin_getptc, big, small, rtsmll, reltol, abstol, tnytol, \$$/;"	p
+tnmin_gtims	tnmin.pro	/^pro tnmin_gtims, v, gv, n, x, g, fcn, first, delta, accrcy, xnorm, \$$/;"	p
+tnmin_initpc	tnmin.pro	/^pro tnmin_initpc, diagb, emat, n, upd1, yksk, gsk, yrsr, lreset$/;"	p
+tnmin_linder	tnmin.pro	/^pro tnmin_linder, n, fcn, small, epsmch, reltol, abstol, \$$/;"	p
+tnmin_modlnp	tnmin.pro	/^pro tnmin_modlnp, zsol, gv, r, v, diagb, emat, \$$/;"	p
+tnmin_msolve	tnmin.pro	/^pro tnmin_msolve, g, y, n, upd1, yksk, gsk, yrsr, lreset, first, \$$/;"	p
+tnmin_ndia3	tnmin.pro	/^pro tnmin_ndia3, n, e, v, gv, r, vgv$/;"	p
+tnmin_parinfo	tnmin.pro	/^pro tnmin_parinfo, parinfo, tnames, tag, values, default=def, status=status, \$$/;"	p
+tnmin_setmachar	tnmin.pro	/^pro tnmin_setmachar, double=isdouble$/;"	p
+tnmin_ssbfgs	tnmin.pro	/^pro tnmin_ssbfgs, n, gamma, sj, yj, hjv, hjyj, yjsj, yjhyj, \$$/;"	p
+tnmin_step1	tnmin.pro	/^function tnmin_step1, fnew, fm, gtp, smax, epsmch$/;"	f
+tnmin_tie	tnmin.pro	/^pro tnmin_tie, p, _ptied$/;"	p

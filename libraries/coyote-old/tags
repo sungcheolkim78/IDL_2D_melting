@@ -1,0 +1,1059 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADDTOPATH	addtopath.pro	/^PRO ADDTOPATH, theDirectory, VERBOSE=verbose$/;"	p
+ASPECT	aspect.pro	/^FUNCTION ASPECT, aspectRatio, MARGIN=margin, WindowAspect=wAspectRatio$/;"	f
+ASinhScl_ASinh	asinhscl.pro	/^FUNCTION ASinhScl_ASinh, x$/;"	f
+AdjustPosition	adjustposition.pro	/^FUNCTION AdjustPosition, currentPosition, Group_Leader=group_leader, \$$/;"	f
+AdjustPosition_ButtonEvents	adjustposition.pro	/^PRO AdjustPosition_ButtonEvents, event$/;"	p
+AdjustPosition_CenterTLB	adjustposition.pro	/^PRO AdjustPosition_CenterTLB, tlb$/;"	p
+AdjustPosition_FieldEvents	adjustposition.pro	/^PRO AdjustPosition_FieldEvents, event$/;"	p
+AdjustPosition_PlotEvents	adjustposition.pro	/^PRO AdjustPosition_PlotEvents, event$/;"	p
+ArcSample	arcsample.pro	/^PRO ArcSample, x_in, y_in, x_out, y_out, POINTS=points, PHASE=phase$/;"	p
+BINARY	binary.pro	/^FUNCTION BINARY, number, COLOR=color, SEPARATE=separate$/;"	f
+BitGet	bitget.pro	/^FUNCTION BitGet, value, bit, SILENT=silent$/;"	f
+Blob_Analyzer::CLEANUP	blob_analyzer__define.pro	/^PRO Blob_Analyzer::CLEANUP$/;"	p
+Blob_Analyzer::FitEllipse	blob_analyzer__define.pro	/^FUNCTION Blob_Analyzer::FitEllipse, indexNumber, \$$/;"	f
+Blob_Analyzer::GetIndices	blob_analyzer__define.pro	/^FUNCTION Blob_Analyzer::GetIndices, indexNumber, COUNT=count, XSIZE=xsize, YSIZE=ysize$/;"	f
+Blob_Analyzer::GetStats	blob_analyzer__define.pro	/^FUNCTION Blob_Analyzer::GetStats, indexNumber, INDICES=indices, NOSCALE=noscale, XYINDICES=xyindices$/;"	f
+Blob_Analyzer::INIT	blob_analyzer__define.pro	/^FUNCTION Blob_Analyzer::INIT, inputImage, \$$/;"	f
+Blob_Analyzer::NumberOfBlobs	blob_analyzer__define.pro	/^FUNCTION Blob_Analyzer::NumberOfBlobs$/;"	f
+Blob_Analyzer::ReportStats	blob_analyzer__define.pro	/^PRO Blob_Analyzer::ReportStats, NOSCALE=noscale, TOFILE=tofile, FILENAME=filename$/;"	p
+Blob_Analyzer__DEFINE	blob_analyzer__define.pro	/^PRO Blob_Analyzer__DEFINE, class $/;"	p
+CIndex	cindex.pro	/^PRO CIndex, NOTIFYID=notifyID, BREWER=brewer$/;"	p
+CIndex_Colors	cindex.pro	/^PRO CIndex_Colors, event$/;"	p
+CIndex_Event	cindex.pro	/^PRO CIndex_Event, event$/;"	p
+COLOR24	color24.pro	/^FUNCTION COLOR24, color$/;"	f
+CTLOAD	ctload.pro	/^PRO CTLOAD, table, \$$/;"	p
+CW_DRAWCOLOR	cw_drawcolor.pro	/^FUNCTION CW_DRAWCOLOR, \$$/;"	f
+CW_DRAWCOLOR::Cleanup	cw_drawcolor.pro	/^PRO CW_DRAWCOLOR::Cleanup$/;"	p
+CW_DRAWCOLOR::Init	cw_drawcolor.pro	/^FUNCTION CW_DRAWCOLOR::Init, \$$/;"	f
+CW_DRAWCOLOR_Kill_Notify	cw_drawcolor.pro	/^PRO CW_DRAWCOLOR_Kill_Notify, drawID$/;"	p
+CW_DRAWCOLOR__DEFINE	cw_drawcolor.pro	/^PRO CW_DRAWCOLOR__DEFINE$/;"	p
+CW_DrawColor::GetTLB	cw_drawcolor.pro	/^FUNCTION CW_DrawColor::GetTLB$/;"	f
+CW_DrawColor::Get_Value	cw_drawcolor.pro	/^FUNCTION CW_DrawColor::Get_Value$/;"	f
+CW_DrawColor::Pickcolor	cw_drawcolor.pro	/^FUNCTION CW_DrawColor::Pickcolor$/;"	f
+CW_DrawColor::Realize	cw_drawcolor.pro	/^PRO CW_DrawColor::Realize$/;"	p
+CW_DrawColor::Set_Value	cw_drawcolor.pro	/^PRO CW_DrawColor::Set_Value, newcolor$/;"	p
+CW_DrawColor_Get_Value	cw_drawcolor.pro	/^FUNCTION CW_DrawColor_Get_Value, id$/;"	f
+CW_DrawColor_Pickcolor	cw_drawcolor.pro	/^FUNCTION CW_DrawColor_Pickcolor, event$/;"	f
+CW_DrawColor_Realize	cw_drawcolor.pro	/^PRO CW_DrawColor_Realize, drawID$/;"	p
+CW_DrawColor_Set_Value	cw_drawcolor.pro	/^PRO CW_DrawColor_Set_Value, id, newcolor$/;"	p
+CW_Drawcolor_Error_Message	cw_drawcolor.pro	/^FUNCTION CW_Drawcolor_Error_Message, theMessage, Traceback=traceback, NoName=noName, _Extra=extra$/;"	f
+CW_Drawcolor_FindTLB	cw_drawcolor.pro	/^FUNCTION CW_Drawcolor_FindTLB, startID$/;"	f
+CW_FileSelect__Define	fsc_fileselect.pro	/^PRO CW_FileSelect__Define$/;"	p
+CW_Light_Control	cgsurface.pro	/^FUNCTION CW_Light_Control, parent, theLight, Name=name, UValue=uvalue, Event_Pro=event_pro, \$$/;"	f
+CW_Light_Control	fsc_surface.pro	/^FUNCTION CW_Light_Control, parent, theLight, Name=name, UValue=uvalue, Event_Pro=event_pro, \$$/;"	f
+CW_Light_Control	xsurface.pro	/^FUNCTION CW_Light_Control, parent, theLight, Name=name, UValue=uvalue, Event_Pro=event_pro, \$$/;"	f
+CW_Light_Control_Events	cgsurface.pro	/^PRO CW_Light_Control_Events, event$/;"	p
+CW_Light_Control_Events	fsc_surface.pro	/^PRO CW_Light_Control_Events, event$/;"	p
+CW_Light_Control_Events	xsurface.pro	/^PRO CW_Light_Control_Events, event$/;"	p
+CW_Light_Control_Intensity_Events	cgsurface.pro	/^PRO CW_Light_Control_Intensity_Events, event$/;"	p
+CW_Light_Control_Intensity_Events	fsc_surface.pro	/^PRO CW_Light_Control_Intensity_Events, event$/;"	p
+CW_Light_Control_Intensity_Events	xsurface.pro	/^PRO CW_Light_Control_Intensity_Events, event$/;"	p
+CanConnect	canconnect.pro	/^Function CanConnect$/;"	f
+CapFirstLetter	capfirstletter.pro	/^FUNCTION CapFirstLetter, theString$/;"	f
+CenterTLB	centertlb.pro	/^PRO CenterTLB, tlb, x, y, NoCenter=nocenter, Device=device, \$$/;"	p
+Checkerboard	checkerboard.pro	/^FUNCTION Checkerboard, boxes, WHITE=white, BLACK=black, XSIZE=xsize, YSIZE=ysize$/;"	f
+ClipScl	clipscl.pro	/^FUNCTION ClipScl, image, clip, \$$/;"	f
+Clipboard	clipboard.pro	/^PRO Clipboard, windowIndex, _Extra=extra$/;"	p
+ColorButtonBitmap	colorbuttonbitmap.pro	/^FUNCTION ColorButtonBitmap, theText, BGColor=bgcolor, FGColor=fgcolor$/;"	f
+ColorsAreIdentical	colorsareidentical.pro	/^FUNCTION ColorsAreIdentical, color_1, color_2$/;"	f
+ContrastZoom	contrastzoom.pro	/^PRO ContrastZoom, image, Colortable=colortable, Group_Leader=group_leader$/;"	p
+ContrastZoom_Aspect	contrastzoom.pro	/^FUNCTION ContrastZoom_Aspect, aspectRatio, MARGIN=margin, WindowAspect=wAspectRatio$/;"	f
+ContrastZoom_Cleanup	contrastzoom.pro	/^PRO ContrastZoom_Cleanup, tlb$/;"	p
+ContrastZoom_DistinguishEvents	contrastzoom.pro	/^PRO ContrastZoom_DistinguishEvents, event$/;"	p
+ContrastZoom_Resize	contrastzoom.pro	/^PRO ContrastZoom_Resize, event$/;"	p
+ContrastZoom_VColorBar::Clamp	contrastzoom.pro	/^PRO ContrastZoom_VColorBar::Clamp, datarange$/;"	p
+ContrastZoom_VColorBar::Cleanup	contrastzoom.pro	/^PRO ContrastZoom_VColorBar::Cleanup$/;"	p
+ContrastZoom_VColorBar::GetProperty	contrastzoom.pro	/^PRO ContrastZoom_VColorBar::GetProperty, Position=position, Text=text, \$$/;"	p
+ContrastZoom_VColorBar::INIT	contrastzoom.pro	/^FUNCTION ContrastZoom_VColorBar::INIT, Position=position, \$$/;"	f
+ContrastZoom_VColorBar::SetProperty	contrastzoom.pro	/^PRO ContrastZoom_VColorBar::SetProperty, Position=position, \$$/;"	p
+ContrastZoom_VColorBar__Define	contrastzoom.pro	/^PRO ContrastZoom_VColorBar__Define$/;"	p
+Convert_To_Type	convert_to_type.pro	/^FUNCTION Convert_To_Type, input, theType, \$$/;"	f
+CoyoteGraphic	coyotegraphic.pro	/^FUNCTION CoyoteGraphic, routine$/;"	f
+DBLTOSTR	dbltostr.pro	/^FUNCTION DBLTOSTR,  value$/;"	f
+DecomposedColor	decomposedcolor.pro	/^FUNCTION DecomposedColor, device, DEPTH=depth$/;"	f
+DirPath	dirpath.pro	/^FUNCTION DirPath, subdirectory, RootDirectory=rootdirectory$/;"	f
+DrawColors::Button_Respond	drawcolors__define.pro	/^PRO DrawColors::Button_Respond, event$/;"	p
+DrawColors::CLEANUP	drawcolors__define.pro	/^PRO DrawColors::CLEANUP$/;"	p
+DrawColors::Color24	drawcolors__define.pro	/^FUNCTION DrawColors::Color24, theColor$/;"	f
+DrawColors::GetColor	drawcolors__define.pro	/^FUNCTION DrawColors::GetColor, theColor, startIndex, INDEXNUMBER=indexnumber, \$$/;"	f
+DrawColors::GetColors	drawcolors__define.pro	/^FUNCTION DrawColors::GetColors, startIndex, INDEXNUMBER=indexnumber, TRUECOLOR=truecolor, \$$/;"	f
+DrawColors::GetProperty	drawcolors__define.pro	/^PRO DrawColors::GetProperty, NAMES=names, RED=red, GREEN=green, BLUE=blue, \$$/;"	p
+DrawColors::INIT	drawcolors__define.pro	/^FUNCTION DrawColors::INIT, red, green, blue, names$/;"	f
+DrawColors::LoadColors	drawcolors__define.pro	/^PRO DrawColors::LoadColors, startindex$/;"	p
+DrawColors::OriginalColors	drawcolors__define.pro	/^PRO DrawColors::OriginalColors$/;"	p
+DrawColors::Refresh	drawcolors__define.pro	/^PRO DrawColors::Refresh$/;"	p
+DrawColors::Select	drawcolors__define.pro	/^FUNCTION DrawColors::Select, Color=currentColor, StartIndex=startIndex, \$$/;"	f
+DrawColors::SetProperty	drawcolors__define.pro	/^PRO DrawColors::SetProperty, NAMES=names, RED=red, GREEN=green, BLUE=blue, \$$/;"	p
+DrawColors::Set_Slider_Color	drawcolors__define.pro	/^PRO DrawColors::Set_Slider_Color, event$/;"	p
+DrawColors::Set_Standard_Color	drawcolors__define.pro	/^PRO DrawColors::Set_Standard_Color, event$/;"	p
+DrawColors::XColors	drawcolors__define.pro	/^PRO DrawColors::XColors$/;"	p
+DrawColors::XColors_Load_Colors	drawcolors__define.pro	/^PRO DrawColors::XColors_Load_Colors$/;"	p
+DrawColors__Define	drawcolors__define.pro	/^PRO DrawColors__Define$/;"	p
+DrawColors__Events	drawcolors__define.pro	/^PRO DrawColors__Events, event$/;"	p
+DrawCounties	drawcounties.pro	/^PRO DrawCounties, countyFile, \$$/;"	p
+DrawCounties_DrawEntity	drawcounties.pro	/^PRO DrawCounties_DrawEntity, entity, COLOR=color, LINESTYLE=linestyle, THICK=thick$/;"	p
+DrawShapes	drawshapes.pro	/^PRO DrawShapes, shapeFile, \$$/;"	p
+DrawShapes_DrawEntity	drawshapes.pro	/^PRO DrawShapes_DrawEntity, entity, \$$/;"	p
+DrawStates	drawstates.pro	/^PRO DrawStates, stateFile, \$$/;"	p
+DrawStates_DrawEntity	drawstates.pro	/^PRO DrawStates_DrawEntity, entity, COLOR=color, FILL=fill, LINESTYLE=linestyle, THICK=thick$/;"	p
+ERROR_MESSAGE	error_message.pro	/^FUNCTION ERROR_MESSAGE, theMessage, Error=error, Informational=information, \$$/;"	f
+ErrorLogger::AddError	errorlogger__define.pro	/^PRO ErrorLogger::AddError, theText$/;"	p
+ErrorLogger::AddText	errorlogger__define.pro	/^PRO ErrorLogger::AddText, theText, PRINT=print$/;"	p
+ErrorLogger::CLEANUP	errorlogger__define.pro	/^PRO ErrorLogger::CLEANUP$/;"	p
+ErrorLogger::ClearLog	errorlogger__define.pro	/^PRO ErrorLogger::ClearLog$/;"	p
+ErrorLogger::CloseFile	errorlogger__define.pro	/^PRO ErrorLogger::CloseFile$/;"	p
+ErrorLogger::Flush	errorlogger__define.pro	/^PRO ErrorLogger::Flush$/;"	p
+ErrorLogger::GetFileName	errorlogger__define.pro	/^FUNCTION ErrorLogger::GetFileName$/;"	f
+ErrorLogger::GetProperty	errorlogger__define.pro	/^PRO ErrorLogger::GetProperty, \$$/;"	p
+ErrorLogger::INIT	errorlogger__define.pro	/^FUNCTION ErrorLogger::INIT, filename, \$$/;"	f
+ErrorLogger::LastMessage	errorlogger__define.pro	/^FUNCTION ErrorLogger::LastMessage$/;"	f
+ErrorLogger::OpenFile	errorlogger__define.pro	/^FUNCTION ErrorLogger::OpenFile, newLogFilename, DELETE_CURRENT_FILE=delete_current_file$/;"	f
+ErrorLogger::PrintLastMessage	errorlogger__define.pro	/^PRO ErrorLogger::PrintLastMessage$/;"	p
+ErrorLogger::SetProperty	errorlogger__define.pro	/^PRO ErrorLogger::SetProperty, \$$/;"	p
+ErrorLogger::SetStatus	errorlogger__define.pro	/^PRO ErrorLogger::SetStatus, status$/;"	p
+ErrorLogger::Status	errorlogger__define.pro	/^FUNCTION ErrorLogger::Status$/;"	f
+ErrorLogger__Define	errorlogger__define.pro	/^PRO ErrorLogger__Define, class$/;"	p
+Example	blob_analyzer__define.pro	/^PRO Example$/;"	p
+Example	fsc_colorselect.pro	/^PRO Example$/;"	p
+Example	fsc_droplist.pro	/^PRO Example$/;"	p
+Example	fsc_field.pro	/^PRO Example, field1, field2, field3$/;"	p
+Example	fsc_fileselect.pro	/^PRO Example, theObject$/;"	p
+Example	fsc_inputfield.pro	/^PRO Example$/;"	p
+Example	histomatch.pro	/^PRO Example$/;"	p
+Example	sharpen.pro	/^PRO Example$/;"	p
+Example_Event	fsc_colorselect.pro	/^PRO Example_Event, event$/;"	p
+Example_Event	fsc_field.pro	/^PRO Example_Event, event$/;"	p
+Example_Event	fsc_inputfield.pro	/^PRO Example_Event, event$/;"	p
+Example_Events	fsc_droplist.pro	/^PRO Example_Events, event$/;"	p
+Example_Print_Filename	fsc_fileselect.pro	/^PRO Example_Print_Filename, event$/;"	p
+Example_Quit	fsc_fileselect.pro	/^PRO Example_Quit, event$/;"	p
+Example_Set_Filename	fsc_fileselect.pro	/^PRO Example_Set_Filename, event$/;"	p
+Example_Set_Filter	fsc_fileselect.pro	/^PRO Example_Set_Filter, event$/;"	p
+Example_Set_Size	fsc_fileselect.pro	/^PRO Example_Set_Size, event$/;"	p
+Example_Shrink	fsc_fileselect.pro	/^PRO Example_Shrink, event$/;"	p
+FIXPS	fixps.pro	/^PRO FIXPS, in_filename, out_filename, \$$/;"	p
+FLOATS_EQUAL	floats_equal.pro	/^FUNCTION FLOATS_EQUAL, array_1, array_2, ULP=ulp$/;"	f
+FPUFIX	fpufix.pro	/^FUNCTION FPUFIX, data$/;"	f
+FSC_Arrow	fsc_arrow.pro	/^PRO FSC_Arrow, x0, y0, x1, y1, \$$/;"	p
+FSC_Base_Filename	fsc_base_filename.pro	/^FUNCTION FSC_Base_Filename, filename, \$$/;"	f
+FSC_COLORBAR	fsc_colorbar.pro	/^PRO FSC_COLORBAR, \$$/;"	p
+FSC_COLORSELECT::GetID	fsc_colorselect.pro	/^FUNCTION FSC_COLORSELECT::GetID$/;"	f
+FSC_COLORSELECT::GetLabelSize	fsc_colorselect.pro	/^FUNCTION FSC_COLORSELECT::GetLabelSize$/;"	f
+FSC_COLORSELECT::GetTextID	fsc_colorselect.pro	/^FUNCTION FSC_COLORSELECT::GetTextID$/;"	f
+FSC_COLORSELECT::GetTextSize	fsc_colorselect.pro	/^FUNCTION FSC_COLORSELECT::GetTextSize$/;"	f
+FSC_COLORSELECT::Resize	fsc_colorselect.pro	/^PRO FSC_COLORSELECT::Resize, newsize$/;"	p
+FSC_COLORSELECT_WidgetFont	fsc_colorselect.pro	/^FUNCTION FSC_COLORSELECT_WidgetFont, DEFAULT=default$/;"	f
+FSC_CmdWindow::AddCommand	cgwindow.pro	/^PRO FSC_CmdWindow::AddCommand, command,  INDEX=index$/;"	p
+FSC_CmdWindow::AddCommand	fsc_window.pro	/^PRO FSC_CmdWindow::AddCommand, command$/;"	p
+FSC_CmdWindow::AutoPostScriptFile	cgwindow.pro	/^PRO FSC_CmdWindow::AutoPostScriptFile, filename$/;"	p
+FSC_CmdWindow::AutoRasterFile	cgwindow.pro	/^PRO FSC_CmdWindow::AutoRasterFile, filetype, filename$/;"	p
+FSC_CmdWindow::Cleanup	cgwindow.pro	/^PRO FSC_CmdWindow::Cleanup$/;"	p
+FSC_CmdWindow::Cleanup	fsc_window.pro	/^PRO FSC_CmdWindow::Cleanup$/;"	p
+FSC_CmdWindow::CreatePostScriptFile	cgwindow.pro	/^PRO FSC_CmdWindow::CreatePostScriptFile, event$/;"	p
+FSC_CmdWindow::CreatePostScriptFile	fsc_window.pro	/^PRO FSC_CmdWindow::CreatePostScriptFile, event$/;"	p
+FSC_CmdWindow::DeleteCommand	cgwindow.pro	/^PRO FSC_CmdWindow::DeleteCommand, cmdIndex, ALL=all$/;"	p
+FSC_CmdWindow::DeleteCommand	fsc_window.pro	/^PRO FSC_CmdWindow::DeleteCommand, cmdIndex$/;"	p
+FSC_CmdWindow::ExecuteCommands	cgwindow.pro	/^PRO FSC_CmdWindow::ExecuteCommands, KEYWORDS=keywords$/;"	p
+FSC_CmdWindow::ExecuteCommands	fsc_window.pro	/^PRO FSC_CmdWindow::ExecuteCommands$/;"	p
+FSC_CmdWindow::GetCommandKeyword	cgwindow.pro	/^FUNCTION FSC_CmdWindow::GetCommandKeyword, keyword, cmdIndex, SUCCESS=success$/;"	f
+FSC_CmdWindow::GetProperty	cgwindow.pro	/^PRO FSC_CmdWindow::GetProperty, \$$/;"	p
+FSC_CmdWindow::Init	cgwindow.pro	/^FUNCTION FSC_CmdWindow::Init, \$$/;"	f
+FSC_CmdWindow::Init	fsc_window.pro	/^FUNCTION FSC_CmdWindow::Init, \$$/;"	f
+FSC_CmdWindow::InvalidateWidgetID	cgwindow.pro	/^PRO FSC_CmdWindow::InvalidateWidgetID$/;"	p
+FSC_CmdWindow::ListCommand	cgwindow.pro	/^PRO FSC_CmdWindow::ListCommand, cmdIndex, CREATECOMMANDSTRUCT=createCommandStruct$/;"	p
+FSC_CmdWindow::ListCommand	fsc_window.pro	/^PRO FSC_CmdWindow::ListCommand, command$/;"	p
+FSC_CmdWindow::LoadColors	cgwindow.pro	/^PRO FSC_CmdWindow::LoadColors, r, g, b, XCOLORS_DATA=colorData$/;"	p
+FSC_CmdWindow::ReplaceCommand	cgwindow.pro	/^PRO FSC_CmdWindow::ReplaceCommand, command, cmdIndex, MULTI=multi$/;"	p
+FSC_CmdWindow::ReplaceCommand	fsc_window.pro	/^PRO FSC_CmdWindow::ReplaceCommand, command, cmdIndex$/;"	p
+FSC_CmdWindow::Resize	cgwindow.pro	/^PRO FSC_CmdWindow::Resize, event$/;"	p
+FSC_CmdWindow::Resize	fsc_window.pro	/^PRO FSC_CmdWindow::Resize, event$/;"	p
+FSC_CmdWindow::RestoreCommands	cgwindow.pro	/^PRO FSC_CmdWindow::RestoreCommands, filename$/;"	p
+FSC_CmdWindow::SaveAsRaster	cgwindow.pro	/^PRO FSC_CmdWindow::SaveAsRaster, event$/;"	p
+FSC_CmdWindow::SaveAsRaster	fsc_window.pro	/^PRO FSC_CmdWindow::SaveAsRaster, event$/;"	p
+FSC_CmdWindow::SaveCommands	cgwindow.pro	/^PRO FSC_CmdWindow::SaveCommands, filename$/;"	p
+FSC_CmdWindow::SetProperty	cgwindow.pro	/^PRO FSC_CmdWindow::SetProperty, \$$/;"	p
+FSC_CmdWindow_Cleanup	cgwindow.pro	/^PRO FSC_CmdWindow_Cleanup, tlb$/;"	p
+FSC_CmdWindow_Cleanup	fsc_window.pro	/^PRO FSC_CmdWindow_Cleanup, tlb$/;"	p
+FSC_CmdWindow_Dispatch_Events	cgwindow.pro	/^PRO FSC_CmdWindow_Dispatch_Events, event$/;"	p
+FSC_CmdWindow_Dispatch_Events	fsc_window.pro	/^PRO FSC_CmdWindow_Dispatch_Events, event$/;"	p
+FSC_CmdWindow__Define	cgwindow.pro	/^PRO FSC_CmdWindow__Define, class$/;"	p
+FSC_CmdWindow__Define	fsc_window.pro	/^PRO FSC_CmdWindow__Define, class$/;"	p
+FSC_Color	fsc_color.pro	/^FUNCTION FSC_Color, theColour, colorIndex, \$$/;"	f
+FSC_ColorFill	fsc_colorfill.pro	/^PRO FSC_ColorFill, x, y, z, COLOR=color, NORMAL=normal, DEVICE=device, _EXTRA=extra$/;"	p
+FSC_ColorSelect	fsc_colorselect.pro	/^FUNCTION FSC_ColorSelect, $          ; The compound widget FSC_ColorSelect.$/;"	f
+FSC_ColorSelect::CLEANUP	fsc_colorselect.pro	/^PRO FSC_ColorSelect::CLEANUP$/;"	p
+FSC_ColorSelect::Geometry	fsc_colorselect.pro	/^FUNCTION FSC_ColorSelect::Geometry$/;"	f
+FSC_ColorSelect::GetProperty	fsc_colorselect.pro	/^PRO FSC_ColorSelect::GetProperty, \$$/;"	p
+FSC_ColorSelect::Get_Color	fsc_colorselect.pro	/^FUNCTION FSC_ColorSelect::Get_Color$/;"	f
+FSC_ColorSelect::Get_Color_Index	fsc_colorselect.pro	/^FUNCTION FSC_ColorSelect::Get_Color_Index, BREWER=brewer$/;"	f
+FSC_ColorSelect::INIT	fsc_colorselect.pro	/^FUNCTION FSC_ColorSelect::INIT, $   ; The compound widget FSC_ColorSelect INIT method..$/;"	f
+FSC_ColorSelect::PickColorEvents	fsc_colorselect.pro	/^FUNCTION FSC_ColorSelect::PickColorEvents, event$/;"	f
+FSC_ColorSelect::SetProperty	fsc_colorselect.pro	/^PRO FSC_ColorSelect::SetProperty, \$$/;"	p
+FSC_ColorSelect::Set_Color	fsc_colorselect.pro	/^PRO FSC_ColorSelect::Set_Color, color$/;"	p
+FSC_ColorSelect::Set_Color_Index	fsc_colorselect.pro	/^PRO FSC_ColorSelect::Set_Color_Index, colorIndex, BREWER=brewer, TABLENAME=tableName$/;"	p
+FSC_ColorSelect_Event_Handler	fsc_colorselect.pro	/^FUNCTION FSC_ColorSelect_Event_Handler, event$/;"	f
+FSC_ColorSelect_Event__Define	fsc_colorselect.pro	/^PRO FSC_ColorSelect_Event__Define$/;"	p
+FSC_ColorSelect_Kill_Notify	fsc_colorselect.pro	/^PRO FSC_ColorSelect_Kill_Notify, textID$/;"	p
+FSC_ColorSelect__Define	fsc_colorselect.pro	/^PRO FSC_ColorSelect__Define$/;"	p
+FSC_Color_Color24	fsc_color.pro	/^FUNCTION FSC_Color_Color24, color$/;"	f
+FSC_Color_Count_Rows	fsc_color.pro	/^FUNCTION FSC_Color_Count_Rows, filename, MaxRows = maxrows$/;"	f
+FSC_Colorbar::Clamp	fsc_colorbar__define.pro	/^PRO FSC_Colorbar::Clamp, datarange, Draw=draw$/;"	p
+FSC_Colorbar::CleanUp	fsc_colorbar__define.pro	/^PRO FSC_Colorbar::CleanUp$/;"	p
+FSC_Colorbar::Draw	fsc_colorbar__define.pro	/^PRO FSC_Colorbar::Draw, Erase=erase$/;"	p
+FSC_Colorbar::Erase	fsc_colorbar__define.pro	/^PRO FSC_Colorbar::Erase$/;"	p
+FSC_Colorbar::GetProperty	fsc_colorbar__define.pro	/^PRO FSC_Colorbar::GetProperty, \$$/;"	p
+FSC_Colorbar::Init	fsc_colorbar__define.pro	/^FUNCTION FSC_Colorbar::Init, \$$/;"	f
+FSC_Colorbar::LoadCT	fsc_colorbar__define.pro	/^PRO FSC_Colorbar::LoadCT, index, Draw=draw, Erase=erase$/;"	p
+FSC_Colorbar::SetProperty	fsc_colorbar__define.pro	/^PRO FSC_Colorbar::SetProperty, \$$/;"	p
+FSC_Colorbar__Define	fsc_colorbar__define.pro	/^PRO FSC_Colorbar__Define$/;"	p
+FSC_Contour	fsc_contour.pro	/^PRO FSC_Contour, data, x, y, \$$/;"	p
+FSC_DefCharSize	fsc_defcharsize.pro	/^FUNCTION FSC_DefCharSize, FONT=font$/;"	f
+FSC_Display	fsc_display.pro	/^PRO FSC_Display, pxsize, pysize, \$$/;"	p
+FSC_Droplist	fsc_droplist.pro	/^FUNCTION FSC_Droplist, parent, Title=title, Value=value, _Extra=extra$/;"	f
+FSC_Droplist::CLEANUP	fsc_droplist.pro	/^PRO FSC_Droplist::CLEANUP$/;"	p
+FSC_Droplist::EventHandler	fsc_droplist.pro	/^FUNCTION FSC_Droplist::EventHandler, event$/;"	f
+FSC_Droplist::GetID	fsc_droplist.pro	/^FUNCTION FSC_Droplist::GetID$/;"	f
+FSC_Droplist::GetIndex	fsc_droplist.pro	/^FUNCTION FSC_Droplist::GetIndex$/;"	f
+FSC_Droplist::GetSelection	fsc_droplist.pro	/^FUNCTION FSC_Droplist::GetSelection$/;"	f
+FSC_Droplist::GetUValue	fsc_droplist.pro	/^FUNCTION FSC_Droplist::GetUValue$/;"	f
+FSC_Droplist::GetValues	fsc_droplist.pro	/^FUNCTION FSC_Droplist::GetValues$/;"	f
+FSC_Droplist::INIT	fsc_droplist.pro	/^FUNCTION FSC_Droplist::INIT, \$$/;"	f
+FSC_Droplist::Resize	fsc_droplist.pro	/^PRO FSC_Droplist::Resize, newSize,  ParentSize=parentSize$/;"	p
+FSC_Droplist::Sensitive	fsc_droplist.pro	/^PRO FSC_Droplist::Sensitive, value$/;"	p
+FSC_Droplist::SetIndex	fsc_droplist.pro	/^PRO FSC_Droplist::SetIndex, index$/;"	p
+FSC_Droplist::SetSelection	fsc_droplist.pro	/^PRO FSC_Droplist::SetSelection, selection$/;"	p
+FSC_Droplist::SetValues	fsc_droplist.pro	/^PRO FSC_Droplist::SetValues, theValues, CurrentIndex=currentIndex$/;"	p
+FSC_Droplist_Events	fsc_droplist.pro	/^FUNCTION FSC_Droplist_Events, event$/;"	f
+FSC_Droplist_Kill_Notify	fsc_droplist.pro	/^PRO FSC_Droplist_Kill_Notify, droplistID$/;"	p
+FSC_Droplist__DEFINE	fsc_droplist.pro	/^PRO FSC_Droplist__DEFINE$/;"	p
+FSC_Erase	fsc_erase.pro	/^PRO FSC_Erase, background_color, COLOR=color$/;"	p
+FSC_FIELD	fsc_field.pro	/^FUNCTION FSC_FIELD, $               ; The compound widget FSC_Field.$/;"	f
+FSC_Field::CLEANUP	fsc_field.pro	/^PRO FSC_Field::CLEANUP$/;"	p
+FSC_Field::Geometry	fsc_field.pro	/^FUNCTION FSC_Field::Geometry$/;"	f
+FSC_Field::GetID	fsc_field.pro	/^FUNCTION FSC_Field::GetID$/;"	f
+FSC_Field::GetLabelSize	fsc_field.pro	/^FUNCTION FSC_Field::GetLabelSize$/;"	f
+FSC_Field::GetProperty	fsc_field.pro	/^PRO FSC_Field::GetProperty, \$$/;"	p
+FSC_Field::GetTextID	fsc_field.pro	/^FUNCTION FSC_Field::GetTextID$/;"	f
+FSC_Field::GetTextSize	fsc_field.pro	/^FUNCTION FSC_Field::GetTextSize$/;"	f
+FSC_Field::Get_Value	fsc_field.pro	/^FUNCTION FSC_Field::Get_Value$/;"	f
+FSC_Field::INIT	fsc_field.pro	/^FUNCTION FSC_Field::INIT, $         ; The compound widget FSC_Field INIT method..$/;"	f
+FSC_Field::MoveTab	fsc_field.pro	/^PRO FSC_Field::MoveTab$/;"	p
+FSC_Field::Resize	fsc_field.pro	/^PRO FSC_Field::Resize, newsize$/;"	p
+FSC_Field::ReturnValue	fsc_field.pro	/^FUNCTION FSC_Field::ReturnValue, inputValue$/;"	f
+FSC_Field::SetEdit	fsc_field.pro	/^PRO FSC_Field::SetEdit, editvalue$/;"	p
+FSC_Field::SetProperty	fsc_field.pro	/^PRO FSC_Field::SetProperty, \$$/;"	p
+FSC_Field::SetSensitive	fsc_field.pro	/^PRO FSC_Field::SetSensitive, value$/;"	p
+FSC_Field::SetTabNext	fsc_field.pro	/^PRO FSC_Field::SetTabNext, nextID$/;"	p
+FSC_Field::Set_Value	fsc_field.pro	/^PRO FSC_Field::Set_Value, value$/;"	p
+FSC_Field::TextEvents	fsc_field.pro	/^FUNCTION FSC_Field::TextEvents, event$/;"	f
+FSC_Field::Validate	fsc_field.pro	/^FUNCTION FSC_Field::Validate, value$/;"	f
+FSC_Field_Error_Message	fsc_field.pro	/^FUNCTION FSC_Field_Error_Message, theMessage, Traceback=traceback, NoName=noName, _Extra=extra$/;"	f
+FSC_Field_Event_Handler	fsc_field.pro	/^FUNCTION FSC_Field_Event_Handler, event$/;"	f
+FSC_Field_Event__Define	fsc_field.pro	/^PRO FSC_Field_Event__Define$/;"	p
+FSC_Field_Get_Compound_Widget_Value	fsc_field.pro	/^FUNCTION FSC_Field_Get_Compound_Widget_Value, tlb$/;"	f
+FSC_Field_Kill_Notify	fsc_field.pro	/^PRO FSC_Field_Kill_Notify, textID$/;"	p
+FSC_Field_Set_Compound_Widget_Value	fsc_field.pro	/^PRO FSC_Field_Set_Compound_Widget_Value, tlb, value$/;"	p
+FSC_Field_WidgetFont	fsc_field.pro	/^FUNCTION FSC_Field_WidgetFont, DEFAULT=default$/;"	f
+FSC_Field__Define	fsc_field.pro	/^PRO FSC_Field__Define$/;"	p
+FSC_FileSelect	fsc_fileselect.pro	/^FUNCTION FSC_FileSelect, \$$/;"	f
+FSC_FileSelect::CLEANUP	fsc_fileselect.pro	/^PRO FSC_FileSelect::CLEANUP$/;"	p
+FSC_FileSelect::Directory_Events	fsc_fileselect.pro	/^PRO FSC_FileSelect::Directory_Events, event$/;"	p
+FSC_FileSelect::Filename_Events	fsc_fileselect.pro	/^PRO FSC_FileSelect::Filename_Events, event$/;"	p
+FSC_FileSelect::GetFilename	fsc_fileselect.pro	/^FUNCTION FSC_FileSelect::GetFilename$/;"	f
+FSC_FileSelect::GetNoMaxSize	fsc_fileselect.pro	/^FUNCTION FSC_FileSelect::GetNoMaxSize$/;"	f
+FSC_FileSelect::GetProperty	fsc_fileselect.pro	/^PRO FSC_FileSelect::GetProperty, \$$/;"	p
+FSC_FileSelect::GetTLB	fsc_fileselect.pro	/^FUNCTION FSC_FileSelect::GetTLB$/;"	f
+FSC_FileSelect::INIT	fsc_fileselect.pro	/^FUNCTION FSC_FileSelect::INIT, \$$/;"	f
+FSC_FileSelect::Inspect_DirectoryName	fsc_fileselect.pro	/^FUNCTION FSC_FileSelect::Inspect_DirectoryName, dirname, textSelection$/;"	f
+FSC_FileSelect::Inspect_Filename	fsc_fileselect.pro	/^FUNCTION FSC_FileSelect::Inspect_Filename, filename, textSelection$/;"	f
+FSC_FileSelect::LabelSize	fsc_fileselect.pro	/^PRO FSC_FileSelect::LabelSize$/;"	p
+FSC_FileSelect::MatchSize	fsc_fileselect.pro	/^PRO FSC_FileSelect::MatchSize$/;"	p
+FSC_FileSelect::Select_File	fsc_fileselect.pro	/^PRO FSC_FileSelect::Select_File, event$/;"	p
+FSC_FileSelect::SetFilename	fsc_fileselect.pro	/^PRO FSC_FileSelect::SetFilename, theName$/;"	p
+FSC_FileSelect::SetProperty	fsc_fileselect.pro	/^PRO FSC_FileSelect::SetProperty, \$$/;"	p
+FSC_FileSelect::TextSelect	fsc_fileselect.pro	/^PRO FSC_FileSelect::TextSelect, selection$/;"	p
+FSC_FileSelect_Event_Handler	fsc_fileselect.pro	/^FUNCTION FSC_FileSelect_Event_Handler, event$/;"	f
+FSC_FileSelect_Get_Value	fsc_fileselect.pro	/^FUNCTION FSC_FileSelect_Get_Value, id$/;"	f
+FSC_FileSelect_Kill_Notify	fsc_fileselect.pro	/^PRO FSC_FileSelect_Kill_Notify, labelID$/;"	p
+FSC_FileSelect_Notify_Realize	fsc_fileselect.pro	/^PRO FSC_FileSelect_Notify_Realize, labelID$/;"	p
+FSC_FileSelect_RStrPos	fsc_fileselect.pro	/^FUNCTION FSC_FileSelect_RStrPos, Expr, SubStr, Pos$/;"	f
+FSC_FileSelect_Set_Value	fsc_fileselect.pro	/^PRO FSC_FileSelect_Set_Value, id, filename$/;"	p
+FSC_FileSelect__Define	fsc_fileselect.pro	/^PRO FSC_FileSelect__Define$/;"	p
+FSC_Fileselect_WidgetFont	fsc_fileselect.pro	/^FUNCTION FSC_Fileselect_WidgetFont, DEFAULT=default$/;"	f
+FSC_INPUTFIELD	fsc_inputfield.pro	/^FUNCTION FSC_INPUTFIELD, $          ; The compound widget FSC_InputField.$/;"	f
+FSC_InputField::CLEANUP	fsc_inputfield.pro	/^PRO FSC_InputField::CLEANUP$/;"	p
+FSC_InputField::Geometry	fsc_inputfield.pro	/^FUNCTION FSC_InputField::Geometry$/;"	f
+FSC_InputField::GetID	fsc_inputfield.pro	/^FUNCTION FSC_InputField::GetID$/;"	f
+FSC_InputField::GetLabelSize	fsc_inputfield.pro	/^FUNCTION FSC_InputField::GetLabelSize$/;"	f
+FSC_InputField::GetProperty	fsc_inputfield.pro	/^PRO FSC_InputField::GetProperty, \$$/;"	p
+FSC_InputField::GetTextID	fsc_inputfield.pro	/^FUNCTION FSC_InputField::GetTextID$/;"	f
+FSC_InputField::GetTextSize	fsc_inputfield.pro	/^FUNCTION FSC_InputField::GetTextSize$/;"	f
+FSC_InputField::Get_Value	fsc_inputfield.pro	/^FUNCTION FSC_InputField::Get_Value$/;"	f
+FSC_InputField::INIT	fsc_inputfield.pro	/^FUNCTION FSC_InputField::INIT, $    ; The compound widget FSC_InputField INIT method..$/;"	f
+FSC_InputField::MoveTab	fsc_inputfield.pro	/^PRO FSC_InputField::MoveTab$/;"	p
+FSC_InputField::Resize	fsc_inputfield.pro	/^PRO FSC_InputField::Resize, newsize$/;"	p
+FSC_InputField::ReturnValue	fsc_inputfield.pro	/^FUNCTION FSC_InputField::ReturnValue, inputValue$/;"	f
+FSC_InputField::SetProperty	fsc_inputfield.pro	/^PRO FSC_InputField::SetProperty, \$$/;"	p
+FSC_InputField::SetTabNext	fsc_inputfield.pro	/^PRO FSC_InputField::SetTabNext, nextID$/;"	p
+FSC_InputField::Set_Value	fsc_inputfield.pro	/^PRO FSC_InputField::Set_Value, value, IntegerValue=integervalue, \$$/;"	p
+FSC_InputField::TextEvents	fsc_inputfield.pro	/^FUNCTION FSC_InputField::TextEvents, event$/;"	f
+FSC_InputField::Validate	fsc_inputfield.pro	/^FUNCTION FSC_InputField::Validate, value$/;"	f
+FSC_InputField_ERROR_MESSAGE	fsc_inputfield.pro	/^FUNCTION FSC_InputField_ERROR_MESSAGE, theMessage, Error=error, Informational=information, \$$/;"	f
+FSC_InputField_Event_Handler	fsc_inputfield.pro	/^FUNCTION FSC_InputField_Event_Handler, event$/;"	f
+FSC_InputField_Event__Define	fsc_inputfield.pro	/^PRO FSC_InputField_Event__Define$/;"	p
+FSC_InputField_Kill_Notify	fsc_inputfield.pro	/^PRO FSC_InputField_Kill_Notify, textID$/;"	p
+FSC_InputField_WidgetFont	fsc_inputfield.pro	/^FUNCTION FSC_InputField_WidgetFont, DEFAULT=default$/;"	f
+FSC_InputField__Define	fsc_inputfield.pro	/^PRO FSC_InputField__Define$/;"	p
+FSC_Normalize	fsc_normalize.pro	/^FUNCTION FSC_Normalize, range, Position=position$/;"	f
+FSC_PLOTWINDOW	fsc_plotwindow.pro	/^FUNCTION FSC_PLOTWINDOW, parent, PageSize=pagesize, WindowSize=windowsize, \$$/;"	f
+FSC_PLOTWINDOW::CLEANUP	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::CLEANUP$/;"	p
+FSC_PLOTWINDOW::CenterPlot	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::CenterPlot, event$/;"	p
+FSC_PLOTWINDOW::GetPagePixels	fsc_plotwindow.pro	/^FUNCTION FSC_PLOTWINDOW::GetPagePixels, pagesize, Landscape=landscape$/;"	f
+FSC_PLOTWINDOW::GetPosition	fsc_plotwindow.pro	/^FUNCTION FSC_PLOTWINDOW::GetPosition$/;"	f
+FSC_PLOTWINDOW::GetUValue	fsc_plotwindow.pro	/^FUNCTION FSC_PLOTWINDOW::GetUValue$/;"	f
+FSC_PLOTWINDOW::GetWindowLocation	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::GetWindowLocation, xsize, ysize, xoffset, yoffset$/;"	p
+FSC_PLOTWINDOW::INIT	fsc_plotwindow.pro	/^FUNCTION FSC_PLOTWINDOW::INIT, \$$/;"	f
+FSC_PLOTWINDOW::InTarget	fsc_plotwindow.pro	/^FUNCTION FSC_PLOTWINDOW::InTarget, x, y, DIRECTION=direction$/;"	f
+FSC_PLOTWINDOW::MovePlot	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::MovePlot, event$/;"	p
+FSC_PLOTWINDOW::Process_Events	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::Process_Events, event$/;"	p
+FSC_PLOTWINDOW::Realize	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::Realize$/;"	p
+FSC_PLOTWINDOW::Refresh	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::Refresh$/;"	p
+FSC_PLOTWINDOW::Resize	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::Resize, event, direction$/;"	p
+FSC_PLOTWINDOW::SetColor	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::SetColor, on_off$/;"	p
+FSC_PLOTWINDOW::SetPageSize	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::SetPageSize, pagesize, Landscape=landscape, TLB=tlb$/;"	p
+FSC_PLOTWINDOW::SetUnits	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::SetUnits, units$/;"	p
+FSC_PLOTWINDOW::SetWindowColor	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::SetWindowColor, theColor$/;"	p
+FSC_PLOTWINDOW::SetWindowLocation	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::SetWindowLocation, xsize, ysize, xoffset, yoffset$/;"	p
+FSC_PLOTWINDOW::SetWindowSize	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW::SetWindowSize, position$/;"	p
+FSC_PLOTWINDOW::WhichButtonPressed	fsc_plotwindow.pro	/^FUNCTION FSC_PLOTWINDOW::WhichButtonPressed, event$/;"	f
+FSC_PLOTWINDOW::WhichButtonReleased	fsc_plotwindow.pro	/^FUNCTION FSC_PLOTWINDOW::WhichButtonReleased, event$/;"	f
+FSC_PLOTWINDOW_Error_Message	fsc_plotwindow.pro	/^FUNCTION FSC_PLOTWINDOW_Error_Message, theMessage, Traceback=traceback, NoName=noName$/;"	f
+FSC_PLOTWINDOW_Events	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW_Events, event$/;"	p
+FSC_PLOTWINDOW_Kill_Notify	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW_Kill_Notify, drawID$/;"	p
+FSC_PLOTWINDOW_Normalize	fsc_plotwindow.pro	/^FUNCTION FSC_PLOTWINDOW_Normalize, range, Position=position$/;"	f
+FSC_PLOTWINDOW_Notify_Realize	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW_Notify_Realize, drawID$/;"	p
+FSC_PLOTWINDOW__DEFINE	fsc_plotwindow.pro	/^PRO FSC_PLOTWINDOW__DEFINE$/;"	p
+FSC_PSCONFIG::Accept	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::Accept, event$/;"	p
+FSC_PSCONFIG::CLEANUP	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::CLEANUP$/;"	p
+FSC_PSCONFIG::CMYK	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::CMYK, event$/;"	p
+FSC_PSCONFIG::Cancel	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::Cancel, event$/;"	p
+FSC_PSCONFIG::ClearStyles	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::ClearStyles, event$/;"	p
+FSC_PSCONFIG::Color	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::Color, event$/;"	p
+FSC_PSCONFIG::Construct_Full_Filename	fsc_psconfig__define.pro	/^FUNCTION FSC_PSCONFIG::Construct_Full_Filename$/;"	f
+FSC_PSCONFIG::DefaultList	fsc_psconfig__define.pro	/^FUNCTION FSC_PSCONFIG::DefaultList$/;"	f
+FSC_PSCONFIG::Defaults	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::Defaults, event$/;"	p
+FSC_PSCONFIG::Encapsulate	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::Encapsulate, event$/;"	p
+FSC_PSCONFIG::FontType	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::FontType, event$/;"	p
+FSC_PSCONFIG::GUI	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::GUI, Group_Leader=leader, NoBlock=noblock, Cancel=cancel, \$$/;"	p
+FSC_PSCONFIG::GUIFont	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::GUIFont, Cancel=cancel, Group_Leader=leader, NoBlock=noblock, \$$/;"	p
+FSC_PSCONFIG::GetKeywords	fsc_psconfig__define.pro	/^FUNCTION FSC_PSCONFIG::GetKeywords, FontType=fonttype$/;"	f
+FSC_PSCONFIG::GetSizes	fsc_psconfig__define.pro	/^FUNCTION FSC_PSCONFIG::GetSizes$/;"	f
+FSC_PSCONFIG::Help	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::Help, event$/;"	p
+FSC_PSCONFIG::INIT	fsc_psconfig__define.pro	/^FUNCTION FSC_PSCONFIG::INIT,          $ ; The INIT method of the FSC_PSCONFIG object.$/;"	f
+FSC_PSCONFIG::MetricStyle	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::MetricStyle, event$/;"	p
+FSC_PSCONFIG::Orientation	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::Orientation, event$/;"	p
+FSC_PSCONFIG::PageDimensions	fsc_psconfig__define.pro	/^FUNCTION FSC_PSCONFIG::PageDimensions$/;"	f
+FSC_PSCONFIG::PageSize	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::PageSize, event$/;"	p
+FSC_PSCONFIG::PlotWindow	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::PlotWindow, event$/;"	p
+FSC_PSCONFIG::Revert	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::Revert, event$/;"	p
+FSC_PSCONFIG::SaveConfiguration	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::SaveConfiguration$/;"	p
+FSC_PSCONFIG::SetDefault	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::SetDefault, defaultname$/;"	p
+FSC_PSCONFIG::SetProperty	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::SetProperty,        $ ; The SetProperty method of the object.$/;"	p
+FSC_PSCONFIG::StatusLight	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::StatusLight, safe$/;"	p
+FSC_PSCONFIG::StyleButtons	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::StyleButtons, event$/;"	p
+FSC_PSCONFIG::Units	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::Units, event$/;"	p
+FSC_PSCONFIG::UpdateDisplay	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::UpdateDisplay$/;"	p
+FSC_PSCONFIG::UpdateFontStyle	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::UpdateFontStyle, Clear = Clear$/;"	p
+FSC_PSCONFIG::UpdateSizes	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::UpdateSizes, xsize, ysize, xoffset, yoffset$/;"	p
+FSC_PSCONFIG::WindowSize	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG::WindowSize, event$/;"	p
+FSC_PSCONFIG_CenterTLB	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG_CenterTLB, tlb$/;"	p
+FSC_PSCONFIG_Error_Message	fsc_psconfig__define.pro	/^FUNCTION FSC_PSCONFIG_Error_Message, theMessage, Traceback=traceback, \$$/;"	f
+FSC_PSCONFIG_Events	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG_Events, event$/;"	p
+FSC_PSCONFIG_Help_Event	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG_Help_Event, event$/;"	p
+FSC_PSCONFIG_Normalize	fsc_psconfig__define.pro	/^FUNCTION FSC_PSCONFIG_Normalize, range, Position=position$/;"	f
+FSC_PSCONFIG_RStrPos	fsc_psconfig__define.pro	/^FUNCTION FSC_PSCONFIG_RStrPos, Expr, SubStr, Pos$/;"	f
+FSC_PSCONFIG_Restore_Device	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG_Restore_Device, id$/;"	p
+FSC_PSCONFIG__DEFINE	fsc_psconfig__define.pro	/^PRO FSC_PSCONFIG__DEFINE$/;"	p
+FSC_PSConfig::GetName	fsc_psconfig__define.pro	/^FUNCTION FSC_PSConfig::GetName$/;"	f
+FSC_PSConfig::GetProperty	fsc_psconfig__define.pro	/^PRO FSC_PSConfig::GetProperty, Name=name, _Extra=extra$/;"	p
+FSC_PS_SETUP__DEFINE	fsc_ps_setup__define.pro	/^PRO FSC_PS_SETUP__DEFINE$/;"	p
+FSC_Pickfile	fsc_pickfile.pro	/^FUNCTION FSC_Pickfile, \$$/;"	f
+FSC_Plot	fsc_plot.pro	/^PRO FSC_Plot, x, y, \$$/;"	p
+FSC_PlotS	fsc_plots.pro	/^PRO FSC_PlotS, x, y, z, \$$/;"	p
+FSC_Resize_Image	fsc_resize_image.pro	/^FUNCTION FSC_Resize_Image, image, cols, rows, \$$/;"	f
+FSC_Surf	fsc_surf.pro	/^PRO FSC_Surf, data, x, y, \$$/;"	p
+FSC_Surface	fsc_surface.pro	/^PRO FSC_Surface, data, x, y, \$$/;"	p
+FSC_Surface_Aspect	fsc_surface.pro	/^FUNCTION FSC_Surface_Aspect, aspectRatio, MARGIN=margin, WindowAspect=wAspectRatio$/;"	f
+FSC_Surface_Axes_OnOff	fsc_surface.pro	/^PRO FSC_Surface_Axes_OnOff, event$/;"	p
+FSC_Surface_Bottom_OnOff	fsc_surface.pro	/^PRO FSC_Surface_Bottom_OnOff, event$/;"	p
+FSC_Surface_Change_Colors	fsc_surface.pro	/^PRO FSC_Surface_Change_Colors, event$/;"	p
+FSC_Surface_Cleanup	fsc_surface.pro	/^PRO FSC_Surface_Cleanup, tlb$/;"	p
+FSC_Surface_Draw_Events	fsc_surface.pro	/^PRO FSC_Surface_Draw_Events, event$/;"	p
+FSC_Surface_Elevation_Colors	fsc_surface.pro	/^PRO FSC_Surface_Elevation_Colors, event$/;"	p
+FSC_Surface_Elevation_Shading	fsc_surface.pro	/^PRO FSC_Surface_Elevation_Shading, event$/;"	p
+FSC_Surface_Exit	fsc_surface.pro	/^PRO FSC_Surface_Exit, event$/;"	p
+FSC_Surface_Light_Controls	fsc_surface.pro	/^PRO FSC_Surface_Light_Controls, event$/;"	p
+FSC_Surface_Light_Controls_Event	fsc_surface.pro	/^PRO FSC_Surface_Light_Controls_Event, event$/;"	p
+FSC_Surface_Light_Done	fsc_surface.pro	/^PRO FSC_Surface_Light_Done, event$/;"	p
+FSC_Surface_Move_Surface	fsc_surface.pro	/^PRO FSC_Surface_Move_Surface, event$/;"	p
+FSC_Surface_Move_Title	fsc_surface.pro	/^PRO FSC_Surface_Move_Title, event$/;"	p
+FSC_Surface_Output	fsc_surface.pro	/^PRO FSC_Surface_Output, event$/;"	p
+FSC_Surface_Properties	fsc_surface.pro	/^PRO FSC_Surface_Properties, event$/;"	p
+FSC_Surface_Resize	fsc_surface.pro	/^PRO FSC_Surface_Resize, event$/;"	p
+FSC_Surface_Skirt_OnOff	fsc_surface.pro	/^PRO FSC_Surface_Skirt_OnOff, event$/;"	p
+FSC_Surface_Style	fsc_surface.pro	/^PRO FSC_Surface_Style, event$/;"	p
+FSC_Text	fsc_text.pro	/^PRO FSC_Text, xloc, yloc, text, \$$/;"	p
+FSC_Window	fsc_window.pro	/^PRO FSC_Window, \$$/;"	p
+FSC_Window_Command::Cleanup	cgwindow.pro	/^PRO FSC_Window_Command::Cleanup$/;"	p
+FSC_Window_Command::Cleanup	fsc_window.pro	/^PRO FSC_Window_Command::Cleanup$/;"	p
+FSC_Window_Command::Copy	cgwindow.pro	/^FUNCTION FSC_Window_Command::Copy$/;"	f
+FSC_Window_Command::CreateCommandStruct	cgwindow.pro	/^PRO FSC_Window_Command::CreateCommandStruct, structName, Quiet=quiet$/;"	p
+FSC_Window_Command::Draw	cgwindow.pro	/^PRO FSC_Window_Command::Draw, SUCCESS=success, KEYWORDS=keywords$/;"	p
+FSC_Window_Command::Draw	fsc_window.pro	/^PRO FSC_Window_Command::Draw$/;"	p
+FSC_Window_Command::Get_Keywords	cgwindow.pro	/^FUNCTION FSC_Window_Command::Get_Keywords, HAS_KEYWORDS=has_keywords$/;"	f
+FSC_Window_Command::INIT	cgwindow.pro	/^FUNCTION FSC_Window_Command::INIT, \$$/;"	f
+FSC_Window_Command::INIT	fsc_window.pro	/^FUNCTION FSC_Window_Command::INIT, \$$/;"	f
+FSC_Window_Command::List	cgwindow.pro	/^PRO FSC_Window_Command::List, prefix$/;"	p
+FSC_Window_Command::List	fsc_window.pro	/^PRO FSC_Window_Command::List, prefix$/;"	p
+FSC_Window_Command::UpdateKeywordStruct	cgwindow.pro	/^PRO FSC_Window_Command::UpdateKeywordStruct, keywords$/;"	p
+FSC_Window_Command__Define	cgwindow.pro	/^PRO FSC_Window_Command__Define$/;"	p
+FSC_Window_Command__Define	fsc_window.pro	/^PRO FSC_Window_Command__Define$/;"	p
+FSC_Window_ID__Define	cgwindow.pro	/^PRO FSC_Window_ID__Define$/;"	p
+FSC_Window_ID__Define	fsc_window.pro	/^PRO FSC_Window_ID__Define$/;"	p
+FSC_ZImage	fsc_zimage.pro	/^PRO FSC_ZImage, image, \$$/;"	p
+FSC_ZImage_BoxColor	fsc_zimage.pro	/^PRO FSC_ZImage_BoxColor, event$/;"	p
+FSC_ZImage_Cleanup	fsc_zimage.pro	/^PRO FSC_ZImage_Cleanup, tlb$/;"	p
+FSC_ZImage_DrawEvents	fsc_zimage.pro	/^PRO FSC_ZImage_DrawEvents, event$/;"	p
+FSC_ZImage_Factor	fsc_zimage.pro	/^PRO FSC_ZImage_Factor, event$/;"	p
+FSC_ZImage_LoadColors	fsc_zimage.pro	/^PRO FSC_ZImage_LoadColors, event$/;"	p
+FSC_ZImage_Quit	fsc_zimage.pro	/^PRO FSC_ZImage_Quit, event$/;"	p
+FSC_ZImage_ZoomDied	fsc_zimage.pro	/^PRO FSC_ZImage_ZoomDied, zoomID$/;"	p
+FSC_ZPlot	fsc_zplot.pro	/^PRO FSC_ZPlot, x, y, \$$/;"	p
+FSC_ZPlot_Cleanup	fsc_zplot.pro	/^PRO FSC_ZPlot_Cleanup, tlb$/;"	p
+FSC_ZPlot_Drawbox	fsc_zplot.pro	/^PRO FSC_ZPlot_Drawbox, event$/;"	p
+FSC_ZPlot_Events	fsc_zplot.pro	/^PRO FSC_ZPlot_Events, event$/;"	p
+FSC_ZPlot_Resize	fsc_zplot.pro	/^PRO FSC_ZPlot_Resize, event$/;"	p
+FindMapBoundary	findmapboundary.pro	/^FUNCTION FindMapBoundary, filename, boundary, \$$/;"	f
+FindPro	findpro.pro	/^pro FindPro, Proc_Name, NoPrint=NoPrint, DirList=DirList, ProList=ProList$/;"	p
+Find_Boundary	find_boundary.pro	/^FUNCTION Find_Boundary, indices, \$$/;"	f
+Find_Boundary_Outline	find_boundary.pro	/^FUNCTION Find_Boundary_Outline, mask, darray, boundaryPts, ptIndex, \$$/;"	f
+Find_Resource_File	find_resource_file.pro	/^Function Find_Resource_File, filename, SUCCESS=success, VERBOSE=verbose$/;"	f
+Fit_Ellipse	fit_ellipse.pro	/^FUNCTION Fit_Ellipse, indices, \$$/;"	f
+GETIMAGE	getimage.pro	/^FUNCTION GETIMAGE, filename, Directory=directory, DataType=datatype, Dimensions=dimensions, \$$/;"	f
+GETIMAGE_DIMS_EVENTS	getimage.pro	/^PRO GETIMAGE_DIMS_EVENTS, event$/;"	p
+GETIMAGE_EVENT	getimage.pro	/^PRO GETIMAGE_EVENT, event$/;"	p
+GETIMAGE_FIND_COYOTE	getimage.pro	/^FUNCTION GETIMAGE_FIND_COYOTE$/;"	f
+GETIMAGE_NULL_EVENTS	getimage.pro	/^PRO GETIMAGE_NULL_EVENTS, event$/;"	p
+GETIMAGE_XDR_EVENTS	getimage.pro	/^PRO GETIMAGE_XDR_EVENTS, event$/;"	p
+GaussScl	gaussscl.pro	/^FUNCTION GaussScl, image, \$$/;"	f
+GetDecomposedState	getdecomposedstate.pro	/^FUNCTION GetDecomposedState, DEPTH=depth$/;"	f
+GetPrimaryScreenSize	getprimaryscreensize.pro	/^FUNCTION GetPrimaryScreenSize, Exclude_Taskbar=exclude_Taskbar$/;"	f
+Get_Object_ID	get_object_id.pro	/^FUNCTION Get_Object_ID, theObject, NUMBER=number$/;"	f
+GmaScl	gmascl.pro	/^FUNCTION GmaScl, image, \$$/;"	f
+Greek	greek.pro	/^FUNCTION Greek, letter, CAPITAL=capital, EXAMPLE=example, UNICODE=unicode$/;"	f
+Greek_Example	greek.pro	/^PRO Greek_Example, UNICODE=unicode$/;"	p
+GridPositions	gridpositions.pro	/^Function GridPositions, columns, rows, \$$/;"	f
+HColorBar::Clamp	hcolorbar__define.pro	/^PRO HColorBar::Clamp, datarange$/;"	p
+HColorBar::Cleanup	hcolorbar__define.pro	/^PRO HColorBar::Cleanup$/;"	p
+HColorBar::GetProperty	hcolorbar__define.pro	/^PRO HColorBar::GetProperty, Position=position, Text=text, \$$/;"	p
+HColorBar::INIT	hcolorbar__define.pro	/^FUNCTION HColorBar::INIT, Position=position, Text=text, \$$/;"	f
+HColorBar::SetProperty	hcolorbar__define.pro	/^PRO HColorBar::SetProperty, Position=position, Text=text, \$$/;"	p
+HColorBar__Define	hcolorbar__define.pro	/^PRO HColorBar__Define$/;"	p
+HDFREAD	hdfread.pro	/^PRO HDFREAD, filename   ; Open file and initialize the SDS interface.$/;"	p
+HDFWRITE	hdfwrite.pro	/^PRO HDFWRITE, filename$/;"	p
+HELP_VAR	help_var.pro	/^PRO HELP_VAR$/;"	p
+HELP_VAR_UNDEFINE	help_var.pro	/^PRO HELP_VAR_UNDEFINE, varname$/;"	p
+HISTOMATCH	histomatch.pro	/^FUNCTION HISTOMATCH, image, histogram_to_match$/;"	f
+HISTOMATCH_ERROR_MESSAGE	histomatch.pro	/^FUNCTION HISTOMATCH_ERROR_MESSAGE, theMessage, Error=error, Informational=information, \$$/;"	f
+HasImageMagick	hasimagemagick.pro	/^FUNCTION HasImageMagick, VERSION=version$/;"	f
+ImageSelect	imageselect.pro	/^FUNCTION ImageSelect, \$$/;"	f
+ImageSelect_Action	imageselect.pro	/^PRO ImageSelect_Action, event$/;"	p
+ImageSelect_BSort	imageselect.pro	/^FUNCTION ImageSelect_BSort, Array, Asort, INFO=info, REVERSE = rev$/;"	f
+ImageSelect_Cleanup	imageselect.pro	/^PRO ImageSelect_Cleanup, tlb$/;"	p
+ImageSelect_FileExtension	imageselect.pro	/^FUNCTION ImageSelect_FileExtension, filename$/;"	f
+ImageSelect_FilenameEvents	imageselect.pro	/^PRO ImageSelect_FilenameEvents, event$/;"	p
+ImageSelect_FlipImage	imageselect.pro	/^PRO ImageSelect_FlipImage, event$/;"	p
+ImageSelect_ListEvents	imageselect.pro	/^PRO ImageSelect_ListEvents, event$/;"	p
+ImageSelect_ReadFiles	imageselect.pro	/^PRO ImageSelect_ReadFiles, extension, filename, info, fileinfo, image, ok, type, _Extra=extra$/;"	p
+ImageSelect_SetFilter	imageselect.pro	/^PRO ImageSelect_SetFilter, event$/;"	p
+ImageSelect_WindowSize	imageselect.pro	/^FUNCTION ImageSelect_WindowSize, image, XSIZE=xsize, YSIZE=ysize$/;"	f
+Image_Blend	image_blend.pro	/^PRO Image_Blend, backgroundImage, foregroundImage, Colortable=colortable$/;"	p
+Image_Blend_Background_Colors	image_blend.pro	/^PRO Image_Blend_Background_Colors, event$/;"	p
+Image_Blend_CleanUp	image_blend.pro	/^PRO Image_Blend_CleanUp, id$/;"	p
+Image_Blend_Event	image_blend.pro	/^PRO Image_Blend_Event, event$/;"	p
+Image_Blend_Exit	image_blend.pro	/^PRO Image_Blend_Exit, event$/;"	p
+Image_Blend_Expose	image_blend.pro	/^PRO Image_Blend_Expose, event$/;"	p
+Image_Blend_Foreground_Colors	image_blend.pro	/^PRO Image_Blend_Foreground_Colors, event$/;"	p
+Image_Blend_Output	image_blend.pro	/^PRO Image_Blend_Output, event$/;"	p
+Image_Blend_Slider	image_blend.pro	/^PRO Image_Blend_Slider, event$/;"	p
+Image_Dimensions	image_dimensions.pro	/^FUNCTION Image_Dimensions, image, \$$/;"	f
+Inside	inside.pro	/^FUNCTION Inside, x, y, xpts, ypts, INDEX=index$/;"	f
+JD2Time	jd2time.pro	/^FUNCTION JD2Time, jdnumber, jdyear$/;"	f
+JN2Time	jn2time.pro	/^FUNCTION JN2Time, jnumber, SHORT=short$/;"	f
+LINKEDLIST::ADD	linkedlist__define.pro	/^PRO LINKEDLIST::ADD, item, index, \$$/;"	p
+LINKEDLIST::ADD_AFTER	linkedlist__define.pro	/^PRO LINKEDLIST::ADD_AFTER, item, index, NO_COPY=no_copy, ERROR=errorMsg$/;"	p
+LINKEDLIST::ADD_BEFORE	linkedlist__define.pro	/^PRO LINKEDLIST::ADD_BEFORE, item, index, NO_COPY=no_copy, ERROR=errorMsg$/;"	p
+LINKEDLIST::ADD_TO_END	linkedlist__define.pro	/^PRO LINKEDLIST::ADD_TO_END, item, NO_COPY=no_copy, ERROR=errorMsg$/;"	p
+LINKEDLIST::CLEANUP	linkedlist__define.pro	/^PRO LINKEDLIST::CLEANUP$/;"	p
+LINKEDLIST::DELETE	linkedlist__define.pro	/^PRO LINKEDLIST::DELETE, index, All=all, DESTROY=destroy, ERROR=errorMsg$/;"	p
+LINKEDLIST::DELETE_LAST_NODE	linkedlist__define.pro	/^PRO LINKEDLIST::DELETE_LAST_NODE, DESTROY=destroy, ERROR=errorMsg$/;"	p
+LINKEDLIST::DELETE_NODE	linkedlist__define.pro	/^PRO LINKEDLIST::DELETE_NODE, index, DESTROY=destroy, ERROR=errorMsg$/;"	p
+LINKEDLIST::DELETE_NODES	linkedlist__define.pro	/^PRO LINKEDLIST::DELETE_NODES, DESTROY=destroy, ERROR=errorMsg$/;"	p
+LINKEDLIST::GET_COUNT	linkedlist__define.pro	/^FUNCTION LINKEDLIST::GET_COUNT$/;"	f
+LINKEDLIST::GET_ITEM	linkedlist__define.pro	/^FUNCTION LINKEDLIST::GET_ITEM, index, \$$/;"	f
+LINKEDLIST::GET_NODE	linkedlist__define.pro	/^FUNCTION LINKEDLIST::GET_NODE, index, ERROR=errorMsg$/;"	f
+LINKEDLIST::GET_VALUE	linkedlist__define.pro	/^FUNCTION LINKEDLIST::GET_VALUE, index, NO_COPY=no_copy, ERROR=errorMsg$/;"	f
+LINKEDLIST::HAVE_ITEM	linkedlist__define.pro	/^FUNCTION LINKEDLIST::HAVE_ITEM, index, ERROR=errorMsg$/;"	f
+LINKEDLIST::HELP	linkedlist__define.pro	/^PRO LINKEDLIST::HELP, Print=print$/;"	p
+LINKEDLIST::INIT	linkedlist__define.pro	/^FUNCTION LINKEDLIST::INIT, item$/;"	f
+LINKEDLIST::MOVE_NODE	linkedlist__define.pro	/^PRO LINKEDLIST::MOVE_NODE, nodeIndex, location, Before=before, Error=errormsg$/;"	p
+LINKEDLIST::REPLACE_ITEM	linkedlist__define.pro	/^PRO LINKEDLIST::REPLACE_ITEM, item, index, NO_COPY=no_copy, ERROR=errorMsg$/;"	p
+LINKEDLIST__DEFINE	linkedlist__define.pro	/^PRO LINKEDLIST__DEFINE$/;"	p
+LeftJustify	leftjustify.pro	/^FUNCTION LeftJustify, theString, theWidth$/;"	f
+List_Selector	list_selector.pro	/^FUNCTION List_Selector, theNames, \$$/;"	f
+List_Selector_Button_Events	list_selector.pro	/^PRO List_Selector_Button_Events, event$/;"	p
+List_Selector_Click_Events	list_selector.pro	/^PRO List_Selector_Click_Events, event$/;"	p
+List_Selector_Size_Events	list_selector.pro	/^PRO List_Selector_Size_Events, event$/;"	p
+List_Selector_Test	list_selector.pro	/^PRO List_Selector_Test, MORENAMES=morenames, LIST_COUNTER=list_counter, SELECTED_INDICES=selected_indices$/;"	p
+LogScl	logscl.pro	/^FUNCTION LogScl, image, \$$/;"	f
+MPI_Axis	mpi_axis.pro	/^FUNCTION MPI_Axis,  \$$/;"	f
+MPI_Axis::AcceptTickOptions	mpi_axis__define.pro	/^FUNCTION MPI_Axis::AcceptTickOptions, event$/;"	f
+MPI_Axis::AxisThickness	mpi_axis__define.pro	/^FUNCTION MPI_Axis::AxisThickness, event$/;"	f
+MPI_Axis::AxisTitle	mpi_axis__define.pro	/^FUNCTION MPI_Axis::AxisTitle, event$/;"	f
+MPI_Axis::CharSize	mpi_axis__define.pro	/^FUNCTION MPI_Axis::CharSize, event$/;"	f
+MPI_Axis::CheckEvent	mpi_axis__define.pro	/^FUNCTION MPI_Axis::CheckEvent, event$/;"	f
+MPI_Axis::Cleanup	mpi_axis__define.pro	/^PRO MPI_Axis::Cleanup$/;"	p
+MPI_Axis::DismissDialog	mpi_axis__define.pro	/^FUNCTION MPI_Axis::DismissDialog, event$/;"	f
+MPI_Axis::GUI	mpi_axis__define.pro	/^FUNCTION MPI_Axis::GUI, \$$/;"	f
+MPI_Axis::GetKeywords	mpi_axis__define.pro	/^FUNCTION MPI_Axis::GetKeywords$/;"	f
+MPI_Axis::GetProperty	mpi_axis__define.pro	/^PRO MPI_Axis::GetProperty, Name=name$/;"	p
+MPI_Axis::GetTLB	mpi_axis__define.pro	/^FUNCTION MPI_Axis::GetTLB$/;"	f
+MPI_Axis::GridStyle	mpi_axis__define.pro	/^FUNCTION MPI_Axis::GridStyle, event$/;"	f
+MPI_Axis::HighRange	mpi_axis__define.pro	/^FUNCTION MPI_Axis::HighRange, event$/;"	f
+MPI_Axis::Init	mpi_axis__define.pro	/^FUNCTION MPI_Axis::Init, \$$/;"	f
+MPI_Axis::LowRange	mpi_axis__define.pro	/^FUNCTION MPI_Axis::LowRange, event$/;"	f
+MPI_Axis::MajorTicks	mpi_axis__define.pro	/^FUNCTION MPI_Axis::MajorTicks, event$/;"	f
+MPI_Axis::MinorTicks	mpi_axis__define.pro	/^FUNCTION MPI_Axis::MinorTicks, event$/;"	f
+MPI_Axis::ResetRange	mpi_axis__define.pro	/^FUNCTION MPI_Axis::ResetRange, event$/;"	f
+MPI_Axis::ResizeTLB	mpi_axis__define.pro	/^PRO MPI_Axis::ResizeTLB$/;"	p
+MPI_Axis::SetBoxStyle	mpi_axis__define.pro	/^FUNCTION MPI_Axis::SetBoxStyle, event$/;"	f
+MPI_Axis::SetExactStyle	mpi_axis__define.pro	/^FUNCTION MPI_Axis::SetExactStyle, event$/;"	f
+MPI_Axis::SetExtendStyle	mpi_axis__define.pro	/^FUNCTION MPI_Axis::SetExtendStyle, event$/;"	f
+MPI_Axis::SetHideStyle	mpi_axis__define.pro	/^FUNCTION MPI_Axis::SetHideStyle, event$/;"	f
+MPI_Axis::SetLogStyle	mpi_axis__define.pro	/^FUNCTION MPI_Axis::SetLogStyle, event$/;"	f
+MPI_Axis::SetProperty	mpi_axis__define.pro	/^PRO MPI_Axis::SetProperty, \$$/;"	p
+MPI_Axis::SetZeroStyle	mpi_axis__define.pro	/^FUNCTION MPI_Axis::SetZeroStyle, event$/;"	f
+MPI_Axis::StyleOptions	mpi_axis__define.pro	/^FUNCTION MPI_Axis::StyleOptions, event$/;"	f
+MPI_Axis::TickFormat	mpi_axis__define.pro	/^FUNCTION MPI_Axis::TickFormat, event$/;"	f
+MPI_Axis::TickLength	mpi_axis__define.pro	/^FUNCTION MPI_Axis::TickLength, event$/;"	f
+MPI_Axis::TickOptions	mpi_axis__define.pro	/^FUNCTION MPI_Axis::TickOptions, event$/;"	f
+MPI_Axis::UpdateObject	mpi_axis__define.pro	/^PRO MPI_Axis::UpdateObject$/;"	p
+MPI_Axis_CenterTLB	mpi_axis__define.pro	/^PRO MPI_Axis_CenterTLB, tlb$/;"	p
+MPI_Axis_Error_Message	mpi_axis__define.pro	/^FUNCTION MPI_Axis_Error_Message, theMessage, Traceback=traceback, NoName=noName, _Extra=extra$/;"	f
+MPI_Axis_FindTLB	mpi_axis__define.pro	/^FUNCTION MPI_Axis_FindTLB, startID$/;"	f
+MPI_Axis_GetValue	mpi_axis__define.pro	/^FUNCTION MPI_Axis_GetValue, id$/;"	f
+MPI_Axis_Notify_Realize	mpi_axis__define.pro	/^PRO MPI_Axis_Notify_Realize, tlb$/;"	p
+MPI_Axis_SetValue	mpi_axis__define.pro	/^PRO MPI_Axis_SetValue, value$/;"	p
+MPI_Axis_Widget_Events	mpi_axis.pro	/^PRO MPI_Axis_Widget_Events, Event$/;"	p
+MPI_Axis_Widget_Events	mpi_axis__define.pro	/^FUNCTION MPI_Axis_Widget_Events, event$/;"	f
+MPI_Axis__Define	mpi_axis__define.pro	/^PRO MPI_Axis__Define$/;"	p
+MPI_Overplot__Define	mpi_plot.pro	/^PRO MPI_Overplot__Define$/;"	p
+MPI_Plot	mpi_plot.pro	/^PRO MPI_Plot, x, y, _Extra=extra, XTitle=xtitle, YTitle=ytitle, Title=title, \$$/;"	p
+MPI_PlotConfig::AcceptDialog	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::AcceptDialog, event$/;"	f
+MPI_PlotConfig::ApplyDialog	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::ApplyDialog, event$/;"	f
+MPI_PlotConfig::AxisObjectEvents	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::AxisObjectEvents, event$/;"	f
+MPI_PlotConfig::CheckEvent	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::CheckEvent, event$/;"	f
+MPI_PlotConfig::Cleanup	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig::Cleanup$/;"	p
+MPI_PlotConfig::Destroy	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig::Destroy$/;"	p
+MPI_PlotConfig::DismissDialog	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::DismissDialog, event$/;"	f
+MPI_PlotConfig::GUI	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig::GUI, \$$/;"	p
+MPI_PlotConfig::GetKeywords	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::GetKeywords$/;"	f
+MPI_PlotConfig::GetTLB	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::GetTLB$/;"	f
+MPI_PlotConfig::Init	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::Init, \$$/;"	f
+MPI_PlotConfig::SendEvent	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig::SendEvent$/;"	p
+MPI_PlotConfig::SetBackgroundColor	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetBackgroundColor, event$/;"	f
+MPI_PlotConfig::SetCharSize	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetCharSize, event$/;"	f
+MPI_PlotConfig::SetCharThick	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetCharThick, event$/;"	f
+MPI_PlotConfig::SetColor	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetColor, event$/;"	f
+MPI_PlotConfig::SetDataColor	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetDataColor, event$/;"	f
+MPI_PlotConfig::SetFont	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetFont, event$/;"	f
+MPI_PlotConfig::SetLineThick	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetLineThick, event$/;"	f
+MPI_PlotConfig::SetLinestyle	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetLinestyle, event$/;"	f
+MPI_PlotConfig::SetPlotKeywords	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig::SetPlotKeywords, plotkeywords$/;"	p
+MPI_PlotConfig::SetPlotPosition	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetPlotPosition, event$/;"	f
+MPI_PlotConfig::SetProperty	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig::SetProperty, \$$/;"	p
+MPI_PlotConfig::SetSubTitle	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetSubTitle, event$/;"	f
+MPI_PlotConfig::SetSymSize	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetSymSize, event$/;"	f
+MPI_PlotConfig::SetSymbol	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetSymbol, event$/;"	f
+MPI_PlotConfig::SetTickLen	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetTickLen, event$/;"	f
+MPI_PlotConfig::SetTitle	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SetTitle, event$/;"	f
+MPI_PlotConfig::Symbol	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::Symbol, number$/;"	f
+MPI_PlotConfig::SymbolWithLine	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig::SymbolWithLine, event$/;"	f
+MPI_PlotConfig::UpdateObject	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig::UpdateObject$/;"	p
+MPI_PlotConfig_CenterTLB	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig_CenterTLB, tlb$/;"	p
+MPI_PlotConfig_Error_Message	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig_Error_Message, theMessage, Traceback=traceback, NoName=noName, _Extra=extra$/;"	f
+MPI_PlotConfig_GetValue	mpi_plotconfig__define.pro	/^FUNCTION MPI_PlotConfig_GetValue, id$/;"	f
+MPI_PlotConfig_SetValue	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig_SetValue, value$/;"	p
+MPI_PlotConfig_Widget_Events	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig_Widget_Events, event$/;"	p
+MPI_PlotConfig__Define	mpi_plotconfig__define.pro	/^PRO MPI_PlotConfig__Define$/;"	p
+MPI_Plot_Cleanup	mpi_plot.pro	/^PRO MPI_Plot_Cleanup, tlb$/;"	p
+MPI_Plot_Clear_Overplots	mpi_plot.pro	/^PRO MPI_Plot_Clear_Overplots, event$/;"	p
+MPI_Plot_Configuration_Events	mpi_plot.pro	/^PRO MPI_Plot_Configuration_Events, event$/;"	p
+MPI_Plot_Configure_Button	mpi_plot.pro	/^PRO MPI_Plot_Configure_Button, event$/;"	p
+MPI_Plot_DrawThePlot	mpi_plot.pro	/^PRO MPI_Plot_DrawThePlot, infoptr, Overplot=overplot$/;"	p
+MPI_Plot_PostScript	mpi_plot.pro	/^PRO MPI_Plot_PostScript, event$/;"	p
+MPI_Plot_Print	mpi_plot.pro	/^PRO MPI_Plot_Print, event$/;"	p
+MPI_Plot_Quit	mpi_plot.pro	/^PRO MPI_Plot_Quit, event$/;"	p
+MPI_Plot_Resize	mpi_plot.pro	/^PRO MPI_Plot_Resize, event$/;"	p
+MPI_Plot_SaveAs	mpi_plot.pro	/^PRO MPI_Plot_SaveAs, event$/;"	p
+MS_FileTime	ms_filetime.pro	/^FUNCTION MS_FileTime, fileTime, AS_STRING=as_string$/;"	f
+Make_Transparent_Image	make_transparent_image.pro	/^FUNCTION Make_Transparent_Image, image, COLOR=color, \$$/;"	f
+Map_GSHHS_Shoreline	map_gshhs_shoreline.pro	/^PRO Map_GSHHS_Shoreline, filename, $ ; The name of the GSHHS data file to open$/;"	p
+MaxMin	maxmin.pro	/^PRO MaxMin, variable, NAN=nan, TEXT=text$/;"	p
+MaxWindowSize	maxwindowsize.pro	/^FUNCTION MaxWindowSize, MONITOR_RESOLUTION=monitor_resolution$/;"	f
+NCDF_Attribute::CLEANUP	ncdf_attribute__define.pro	/^PRO NCDF_Attribute::CLEANUP$/;"	p
+NCDF_Attribute::GetName	ncdf_attribute__define.pro	/^FUNCTION NCDF_Attribute::GetName$/;"	f
+NCDF_Attribute::GetProperty	ncdf_attribute__define.pro	/^FUNCTION NCDF_Attribute::GetProperty, thisProperty$/;"	f
+NCDF_Attribute::GetValue	ncdf_attribute__define.pro	/^FUNCTION NCDF_Attribute::GetValue, DATATYPE=datatype$/;"	f
+NCDF_Attribute::INIT	ncdf_attribute__define.pro	/^FUNCTION NCDF_Attribute::INIT, attrName, parent, VARNAME=varName$/;"	f
+NCDF_Attribute::ParseAttribute	ncdf_attribute__define.pro	/^PRO NCDF_Attribute::ParseAttribute$/;"	p
+NCDF_Attribute__DEFINE	ncdf_attribute__define.pro	/^PRO NCDF_Attribute__DEFINE, class$/;"	p
+NCDF_BROWSER	ncdf_browser.pro	/^PRO NCDF_BROWSER, filename, \$$/;"	p
+NCDF_CastDataType	ncdf_castdatatype.pro	/^FUNCTION NCDF_CastDataType, variable, TNAME=tname, TYPE=type$/;"	f
+NCDF_Container::FindByID	ncdf_container__define.pro	/^FUNCTION NCDF_Container::FindByID, thisID, COUNT=count$/;"	f
+NCDF_Container::FindByName	ncdf_container__define.pro	/^FUNCTION NCDF_Container::FindByName, searchName, \$$/;"	f
+NCDF_Container__DEFINE	ncdf_container__define.pro	/^PRO NCDF_Container__DEFINE, class$/;"	p
+NCDF_DATA::Browse	ncdf_data__define.pro	/^PRO NCDF_DATA::Browse, \$$/;"	p
+NCDF_DATA::CLEANUP	ncdf_data__define.pro	/^PRO NCDF_DATA::CLEANUP$/;"	p
+NCDF_DATA::CleanParsedStructures	ncdf_data__define.pro	/^PRO NCDF_DATA::CleanParsedStructures$/;"	p
+NCDF_DATA::Destroy_From_Browser	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::Destroy_From_Browser$/;"	f
+NCDF_DATA::EventHandler	ncdf_data__define.pro	/^PRO NCDF_DATA::EventHandler, event$/;"	p
+NCDF_DATA::FindDimensions	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::FindDimensions, fileID, varID$/;"	f
+NCDF_DATA::GetAttrNames	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::GetAttrNames$/;"	f
+NCDF_DATA::GetVarAttrNames	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::GetVarAttrNames, theVariable$/;"	f
+NCDF_DATA::GetVarNames	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::GetVarNames$/;"	f
+NCDF_DATA::INIT	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::INIT, filename, \$$/;"	f
+NCDF_DATA::ListAttrNames	ncdf_data__define.pro	/^PRO NCDF_DATA::ListAttrNames$/;"	p
+NCDF_DATA::ListVarNames	ncdf_data__define.pro	/^PRO NCDF_DATA::ListVarNames$/;"	p
+NCDF_DATA::OpenFile	ncdf_data__define.pro	/^PRO NCDF_DATA::OpenFile, filename$/;"	p
+NCDF_DATA::OpenNewFile	ncdf_data__define.pro	/^PRO NCDF_DATA::OpenNewFile, event$/;"	p
+NCDF_DATA::ParseFile	ncdf_data__define.pro	/^PRO NCDF_DATA::ParseFile$/;"	p
+NCDF_DATA::Parse_HDF_EOS_File	ncdf_data__define.pro	/^PRO NCDF_DATA::Parse_HDF_EOS_File$/;"	p
+NCDF_DATA::Parse_HDF_File	ncdf_data__define.pro	/^PRO NCDF_DATA::Parse_HDF_File$/;"	p
+NCDF_DATA::ReadAttribute	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::ReadAttribute, theAttribute, SUCCESS=success$/;"	f
+NCDF_DATA::ReadAttributeFromGUI	ncdf_data__define.pro	/^PRO NCDF_DATA::ReadAttributeFromGUI, event$/;"	p
+NCDF_DATA::ReadAttributeFromGUI_Events	ncdf_data__define.pro	/^PRO NCDF_DATA::ReadAttributeFromGUI_Events, event$/;"	p
+NCDF_DATA::ReadDimension	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::ReadDimension, dimensionName, SUCCESS=success$/;"	f
+NCDF_DATA::ReadFile	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::ReadFile, theFile, SUCCESS=success$/;"	f
+NCDF_DATA::ReadFileFromGUI	ncdf_data__define.pro	/^PRO NCDF_DATA::ReadFileFromGUI, event$/;"	p
+NCDF_DATA::ReadGlobalAttr	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::ReadGlobalAttr, SUCCESS=success$/;"	f
+NCDF_DATA::ReadVarAttr	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::ReadVarAttr, theVariableName, theAttributeName$/;"	f
+NCDF_DATA::ReadVarPlusFromGUI	ncdf_data__define.pro	/^PRO NCDF_DATA::ReadVarPlusFromGUI, event$/;"	p
+NCDF_DATA::ReadVarPlusFromGUI_Events	ncdf_data__define.pro	/^PRO NCDF_DATA::ReadVarPlusFromGUI_Events, event$/;"	p
+NCDF_DATA::ReadVariable	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::ReadVariable, theVariable, \$$/;"	f
+NCDF_DATA::ReadVariableFromGUI	ncdf_data__define.pro	/^PRO NCDF_DATA::ReadVariableFromGUI, event$/;"	p
+NCDF_DATA::ReadVariableFromGUI_Events	ncdf_data__define.pro	/^PRO NCDF_DATA::ReadVariableFromGUI_Events, event$/;"	p
+NCDF_DATA::ReadVariableWithAttr	ncdf_data__define.pro	/^FUNCTION NCDF_DATA::ReadVariableWithAttr, theVariable, SUCCESS=success$/;"	f
+NCDF_DATA::SelectionInTree	ncdf_data__define.pro	/^PRO NCDF_DATA::SelectionInTree, event$/;"	p
+NCDF_DATA_ATTRIBUTE__DEFINE	ncdf_data__define.pro	/^PRO NCDF_DATA_ATTRIBUTE__DEFINE$/;"	p
+NCDF_DATA_DIMENSION__DEFINE	ncdf_data__define.pro	/^PRO NCDF_DATA_DIMENSION__DEFINE$/;"	p
+NCDF_DATA_SWATH__DEFINE	ncdf_data__define.pro	/^PRO NCDF_DATA_SWATH__DEFINE$/;"	p
+NCDF_DATA_VARIABLE__DEFINE	ncdf_data__define.pro	/^PRO NCDF_DATA_VARIABLE__DEFINE$/;"	p
+NCDF_DATA_WIDGET_CLEANUP	ncdf_data__define.pro	/^PRO NCDF_DATA_WIDGET_CLEANUP, tlb$/;"	p
+NCDF_DATA_WIDGET_EVENTS	ncdf_data__define.pro	/^PRO NCDF_DATA_WIDGET_EVENTS, event$/;"	p
+NCDF_DATA__DEFINE	ncdf_data__define.pro	/^PRO NCDF_DATA__DEFINE, class$/;"	p
+NCDF_Dimension::CLEANUP	ncdf_dimension__define.pro	/^PRO NCDF_Dimension::CLEANUP$/;"	p
+NCDF_Dimension::GetID	ncdf_dimension__define.pro	/^FUNCTION NCDF_Dimension::GetID$/;"	f
+NCDF_Dimension::GetName	ncdf_dimension__define.pro	/^FUNCTION NCDF_Dimension::GetName$/;"	f
+NCDF_Dimension::GetProperty	ncdf_dimension__define.pro	/^FUNCTION NCDF_Dimension::GetProperty, thisProperty$/;"	f
+NCDF_Dimension::GetSize	ncdf_dimension__define.pro	/^FUNCTION NCDF_Dimension::GetSize$/;"	f
+NCDF_Dimension::GetUnlimited	ncdf_dimension__define.pro	/^FUNCTION NCDF_Dimension::GetUnlimited$/;"	f
+NCDF_Dimension::GetValue	ncdf_dimension__define.pro	/^FUNCTION NCDF_Dimension::GetValue$/;"	f
+NCDF_Dimension::INIT	ncdf_dimension__define.pro	/^FUNCTION NCDF_Dimension::INIT, dimName, parent$/;"	f
+NCDF_Dimension::ParseDimension	ncdf_dimension__define.pro	/^PRO NCDF_Dimension::ParseDimension$/;"	p
+NCDF_Dimension__DEFINE	ncdf_dimension__define.pro	/^PRO NCDF_Dimension__DEFINE, class$/;"	p
+NCDF_FILE::INIT	ncdf_file__define.pro	/^FUNCTION NCDF_FILE::INIT, filename, \$$/;"	f
+NCDF_File::Browse	ncdf_file__define.pro	/^PRO NCDF_File::Browse, TITLE=title, XOFFSET=xoffset, YOFFSET=yoffset$/;"	p
+NCDF_File::CLEANUP	ncdf_file__define.pro	/^PRO NCDF_File::CLEANUP$/;"	p
+NCDF_File::Close_File	ncdf_file__define.pro	/^PRO NCDF_File::Close_File$/;"	p
+NCDF_File::CopyDimTo	ncdf_file__define.pro	/^PRO NCDF_File::CopyDimTo, dimName, destObj$/;"	p
+NCDF_File::CopyGlobalAttrTo	ncdf_file__define.pro	/^PRO NCDF_File::CopyGlobalAttrTo, attrName, destObj$/;"	p
+NCDF_File::CopyVarAttrTo	ncdf_file__define.pro	/^PRO NCDF_File::CopyVarAttrTo, varName, attrName, destObj$/;"	p
+NCDF_File::CopyVarDataTo	ncdf_file__define.pro	/^PRO NCDF_File::CopyVarDataTo, varName, destObj, COUNT=count, OFFSET=offset, STRIDE=stride$/;"	p
+NCDF_File::CopyVarDefTo	ncdf_file__define.pro	/^PRO NCDF_File::CopyVarDefTo, varName, destObj$/;"	p
+NCDF_File::CopyVariableTo	ncdf_file__define.pro	/^PRO NCDF_File::CopyVariableTo, varName, destObj$/;"	p
+NCDF_File::CreateAttrObj	ncdf_file__define.pro	/^PRO NCDF_File::CreateAttrObj, attrName$/;"	p
+NCDF_File::CreateDimObj	ncdf_file__define.pro	/^PRO NCDF_File::CreateDimObj, dimensionName$/;"	p
+NCDF_File::CreateVarObj	ncdf_file__define.pro	/^PRO NCDF_File::CreateVarObj, varName$/;"	p
+NCDF_File::GetDimNames	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetDimNames, COUNT=dimCount$/;"	f
+NCDF_File::GetDimValue	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetDimValue, dimName$/;"	f
+NCDF_File::GetFileID	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetFileID$/;"	f
+NCDF_File::GetGlobalAttrNames	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetGlobalAttrNames, COUNT=attrCount$/;"	f
+NCDF_File::GetGlobalAttrValue	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetGlobalAttrValue, attrName, DATATYPE=datatype$/;"	f
+NCDF_File::GetProperty	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetProperty, thisProperty$/;"	f
+NCDF_File::GetProperty	ncdf_file__define.pro	/^PRO NCDF_File::GetProperty, \$$/;"	p
+NCDF_File::GetVarAttrNames	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetVarAttrNames, varName, COUNT=varAttrCount$/;"	f
+NCDF_File::GetVarAttrValue	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetVarAttrValue, varName, attrName, DATATYPE=datatype$/;"	f
+NCDF_File::GetVarData	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetVarData, varName, \$$/;"	f
+NCDF_File::GetVarInfo	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetVarInfo, varName$/;"	f
+NCDF_File::GetVarNames	ncdf_file__define.pro	/^FUNCTION NCDF_File::GetVarNames, COUNT=varCount$/;"	f
+NCDF_File::HasDim	ncdf_file__define.pro	/^FUNCTION NCDF_File::HasDim, dimName, OBJECT=object$/;"	f
+NCDF_File::HasGlobalAttr	ncdf_file__define.pro	/^FUNCTION NCDF_File::HasGlobalAttr, attrName, OBJECT=object$/;"	f
+NCDF_File::HasVar	ncdf_file__define.pro	/^FUNCTION NCDF_File::HasVar, varName, OBJECT=object$/;"	f
+NCDF_File::HasVarAttr	ncdf_file__define.pro	/^FUNCTION NCDF_File::HasVarAttr, varName, varAttrName, OBJECT=object$/;"	f
+NCDF_File::ParseFile	ncdf_file__define.pro	/^PRO NCDF_File::ParseFile$/;"	p
+NCDF_File::PrintFileInfo	ncdf_file__define.pro	/^PRO NCDF_File::PrintFileInfo, outputFile$/;"	p
+NCDF_File::SetMode	ncdf_file__define.pro	/^PRO NCDF_File::SetMode, DATA=data, DEFINE=define$/;"	p
+NCDF_File::Sync	ncdf_file__define.pro	/^PRO NCDF_File::Sync$/;"	p
+NCDF_File::WriteDim	ncdf_file__define.pro	/^PRO NCDF_File::WriteDim, dimName, dimSize, UNLIMITED=unlimited, OBJECT=object$/;"	p
+NCDF_File::WriteGlobalAttr	ncdf_file__define.pro	/^PRO NCDF_File::WriteGlobalAttr, attrName, attrValue, DATATYPE=datatype, OBJECT=object$/;"	p
+NCDF_File::WriteVarAttr	ncdf_file__define.pro	/^PRO NCDF_File::WriteVarAttr, varName, attrName, attrValue, DATATYPE=datatype$/;"	p
+NCDF_File::WriteVarData	ncdf_file__define.pro	/^PRO NCDF_File::WriteVarData, varName, data, COUNT=count, OFFSET=offset, STRIDE=stride$/;"	p
+NCDF_File::WriteVarDef	ncdf_file__define.pro	/^PRO NCDF_File::WriteVarDef, varName, dimNames, DATATYPE=datatype, OBJECT=object$/;"	p
+NCDF_File_Examples	ncdf_file_examples.pro	/^PRO NCDF_File_Examples$/;"	p
+NCDF_File__DEFINE	ncdf_file__define.pro	/^PRO NCDF_File__DEFINE, class$/;"	p
+NCDF_IsValidFile	ncdf_isvalidfile.pro	/^FUNCTION NCDF_IsValidFile, filename$/;"	f
+NCDF_Variable::AddAttr	ncdf_variable__define.pro	/^PRO NCDF_Variable::AddAttr, attrName, attrValue, DATATYPE=datatype$/;"	p
+NCDF_Variable::CLEANUP	ncdf_variable__define.pro	/^PRO NCDF_Variable::CLEANUP$/;"	p
+NCDF_Variable::GetAttrNames	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::GetAttrNames, COUNT=attrCount$/;"	f
+NCDF_Variable::GetAttrValue	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::GetAttrValue, attrName, DATATYPE=datatype$/;"	f
+NCDF_Variable::GetDimIDs	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::GetDimIDs, COUNT=dimCount$/;"	f
+NCDF_Variable::GetDimNames	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::GetDimNames, COUNT=dimCount$/;"	f
+NCDF_Variable::GetDimSizes	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::GetDimSizes, COUNT=dimCount$/;"	f
+NCDF_Variable::GetID	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::GetID$/;"	f
+NCDF_Variable::GetInfo	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::GetInfo$/;"	f
+NCDF_Variable::GetName	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::GetName$/;"	f
+NCDF_Variable::GetProperty	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::GetProperty, thisProperty$/;"	f
+NCDF_Variable::GetValue	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::GetValue, \$$/;"	f
+NCDF_Variable::HasAttr	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::HasAttr, attrName, OBJECT=object$/;"	f
+NCDF_Variable::INIT	ncdf_variable__define.pro	/^FUNCTION NCDF_Variable::INIT, varName, parent$/;"	f
+NCDF_Variable::ParseVariable	ncdf_variable__define.pro	/^PRO NCDF_Variable::ParseVariable$/;"	p
+NCDF_Variable__DEFINE	ncdf_variable__define.pro	/^PRO NCDF_Variable__DEFINE, class$/;"	p
+Name_Selector	name_selector.pro	/^FUNCTION Name_Selector, theNames, \$$/;"	f
+Name_Selector_Button_Events	name_selector.pro	/^PRO Name_Selector_Button_Events, event$/;"	p
+Name_Selector_Null_Events	name_selector.pro	/^PRO Name_Selector_Null_Events, event$/;"	p
+Name_Selector_Size_Events	name_selector.pro	/^PRO Name_Selector_Size_Events, event$/;"	p
+Name_Selector_Test	name_selector.pro	/^PRO Name_Selector_Test, MORENAMES=morenames, NUMCOLS=numcols$/;"	p
+Number_Formatter	number_formatter.pro	/^FUNCTION Number_Formatter, number, DECIMALS=decimals$/;"	f
+OWindow	owindow.pro	/^FUNCTION OWindow, thisView, XSize=xsize, YSize=ysize, Title=title, \$$/;"	f
+OWindow_Cleanup	owindow.pro	/^PRO OWindow_Cleanup, tlb$/;"	p
+OWindow_Event	owindow.pro	/^PRO OWindow_Event, event$/;"	p
+OWindow_Expose_Events	owindow.pro	/^PRO OWindow_Expose_Events, event$/;"	p
+OWindow_Quit	owindow.pro	/^PRO OWindow_Quit, event$/;"	p
+Object_Shade_Surf	object_shade_surf.pro	/^PRO Object_Shade_Surf, data, x, y, Style=style$/;"	p
+Object_Shade_Surf_Cleanup	object_shade_surf.pro	/^Pro Object_Shade_Surf_Cleanup, tlb$/;"	p
+Object_Shade_Surf_Draw_Events	object_shade_surf.pro	/^PRO Object_Shade_Surf_Draw_Events, event$/;"	p
+Object_Shade_Surf_Exit	object_shade_surf.pro	/^PRO Object_Shade_Surf_Exit, event$/;"	p
+Object_Shade_Surf_Resize	object_shade_surf.pro	/^PRO Object_Shade_Surf_Resize, event$/;"	p
+Object_Shade_Surf_Style	object_shade_surf.pro	/^PRO Object_Shade_Surf_Style, event$/;"	p
+PRINTWINDOW_PSWINDOW	printwindow.pro	/^FUNCTION PRINTWINDOW_PSWINDOW, LANDSCAPE=landscape, CM=cm, MARGIN=margin, \$$/;"	f
+PRINTWINDOW_PSWINDOW_ASPECT	printwindow.pro	/^FUNCTION PRINTWINDOW_PSWINDOW_ASPECT, aspectRatio, MARGIN=margin, WindowAspect=wAspectRatio$/;"	f
+PROGRESSBAR::CLEANUP	progressbar__define.pro	/^PRO PROGRESSBAR::CLEANUP$/;"	p
+PROGRESSBAR::CheckButton	progressbar__define.pro	/^FUNCTION PROGRESSBAR::CheckButton, ACCEPT=accept, CANCEL=cancel$/;"	f
+PROGRESSBAR::CheckCancel	progressbar__define.pro	/^FUNCTION PROGRESSBAR::CheckCancel$/;"	f
+PROGRESSBAR::Destroy	progressbar__define.pro	/^PRO PROGRESSBAR::Destroy$/;"	p
+PROGRESSBAR::GetProperty	progressbar__define.pro	/^PRO PROGRESSBAR::GetProperty, COLOR=color, FAST_LOOP=fast_loop, TEXT=text, \$$/;"	p
+PROGRESSBAR::INIT	progressbar__define.pro	/^FUNCTION PROGRESSBAR::INIT, \$$/;"	f
+PROGRESSBAR::SetProperty	progressbar__define.pro	/^PRO PROGRESSBAR::SetProperty, \$$/;"	p
+PROGRESSBAR::Start	progressbar__define.pro	/^PRO PROGRESSBAR::Start, initialPercent$/;"	p
+PROGRESSBAR::Update	progressbar__define.pro	/^PRO PROGRESSBAR::Update, percent, Text=theText, Title=theTitle$/;"	p
+PROGRESSBAR_Cleanup	progressbar__define.pro	/^PRO PROGRESSBAR_Cleanup, tlb$/;"	p
+PROGRESSBAR_Error_Message	progressbar__define.pro	/^FUNCTION PROGRESSBAR_Error_Message, theMessage, Error=error, Informational=information, \$$/;"	f
+PROGRESSBAR_Event	progressbar__define.pro	/^PRO PROGRESSBAR_Event, event$/;"	p
+PROGRESSBAR__DEFINE	progressbar__define.pro	/^PRO PROGRESSBAR__DEFINE$/;"	p
+PSConfig	psconfig.pro	/^FUNCTION PSConfig,                    \$$/;"	f
+PSWINDOW	pswindow.pro	/^FUNCTION PSWINDOW, \$$/;"	f
+PSWINDOW_ASPECT	pswindow.pro	/^FUNCTION PSWINDOW_ASPECT, aspectRatio, MARGIN=margin, WindowAspect=wAspectRatio$/;"	f
+PS_Background	ps_background.pro	/^PRO PS_Background, color$/;"	p
+PS_END	ps_end.pro	/^PRO PS_END, \$$/;"	p
+PS_START	ps_start.pro	/^PRO PS_START, \$$/;"	p
+PWD	pwd.pro	/^PRO PWD$/;"	p
+PickColor	pickcolor.pro	/^FUNCTION PickColor, currentColorIndex, StartIndex=startIndex, Title=title, \$$/;"	f
+PickColorName	pickcolorname.pro	/^FUNCTION PickColorName, theName, $         ; The name of the starting color.$/;"	f
+PickColorName_Buttons	pickcolorname.pro	/^PRO PickColorName_Buttons, event$/;"	p
+PickColorName_CenterTLB	pickcolorname.pro	/^PRO PickColorName_CenterTLB, tlb$/;"	p
+PickColorName_Count_Rows	pickcolorname.pro	/^FUNCTION PickColorName_Count_Rows, filename, MaxRows = maxrows$/;"	f
+PickColorName_RGB_to_24Bit	pickcolorname.pro	/^FUNCTION PickColorName_RGB_to_24Bit, number$/;"	f
+PickColorName_Select_Color	pickcolorname.pro	/^PRO PickColorName_Select_Color, event$/;"	p
+PickColor_Buttons	pickcolor.pro	/^PRO PickColor_Buttons, event$/;"	p
+PickColor_CenterTLB	pickcolor.pro	/^PRO PickColor_CenterTLB, tlb$/;"	p
+PickColor_Select_Color	pickcolor.pro	/^PRO PickColor_Select_Color, event$/;"	p
+PickColor_Sliders	pickcolor.pro	/^PRO PickColor_Sliders, event$/;"	p
+PrecipMap	precipmap.pro	/^PRO PrecipMap, filename$/;"	p
+PrecipMap_Annotate	precipmap.pro	/^FUNCTION PrecipMap_Annotate, axis, index, value$/;"	f
+PrintPath	printpath.pro	/^PRO PrintPath$/;"	p
+PrintWindow	printwindow.pro	/^PRO PrintWindow, wid, Landscape=landscape, PageSize=pageSize, RGB_Error=rgb_error$/;"	p
+PrintWindow_Error	printwindow.pro	/^FUNCTION PrintWindow_Error, theMessage, Traceback=traceback, NoName=noName$/;"	f
+ProgramRootDir	programrootdir.pro	/^FUNCTION ProgramRootDir, OneUp=oneup, TwoUp=twoup, NoMark=nomark$/;"	f
+RandomNumberGenerator::CLEANUP	randomnumbergenerator__define.pro	/^PRO RandomNumberGenerator::CLEANUP$/;"	p
+RandomNumberGenerator::GetRandomDigits	randomnumbergenerator__define.pro	/^FUNCTION RandomNumberGenerator::GetRandomDigits, digits, BYTES=bytes$/;"	f
+RandomNumberGenerator::GetRandomNumbers	randomnumbergenerator__define.pro	/^FUNCTION RandomNumberGenerator::GetRandomNumbers, d1, d2, d3, d4, d5, d6, d7, d8, \$$/;"	f
+RandomNumberGenerator::INIT	randomnumbergenerator__define.pro	/^FUNCTION RandomNumberGenerator::INIT, initialSeed$/;"	f
+RandomNumberGenerator::SetSeed	randomnumbergenerator__define.pro	/^PRO RandomNumberGenerator::SetSeed, theSeed$/;"	p
+RandomNumberGenerator__Define	randomnumbergenerator__define.pro	/^PRO RandomNumberGenerator__Define$/;"	p
+RangeOf	rangeof.pro	/^FUNCTION RangeOf, variable$/;"	f
+RepMat	repmat.pro	/^FUNCTION RepMat, matrix, ncol, nrow$/;"	f
+Resolve_Object	resolve_object.pro	/^PRO Resolve_Object, obj_or_class, ROUTINE_INFO=ri$/;"	p
+ReverseIndices	reverseindices.pro	/^FUNCTION ReverseIndices, ri, index, COUNT=count$/;"	f
+Reverse_Axes	reverse_axes.pro	/^PRO Reverse_Axes, data, x, y, _Extra=extra, XTitle=xtitle, \$$/;"	p
+Reverse_Axes_AxisRotation	reverse_axes.pro	/^PRO Reverse_Axes_AxisRotation, event$/;"	p
+Reverse_Axes_Cleanup	reverse_axes.pro	/^Pro Reverse_Axes_Cleanup, tlb$/;"	p
+Reverse_Axes_Draw_Events	reverse_axes.pro	/^PRO Reverse_Axes_Draw_Events, event$/;"	p
+Reverse_Axes_Exit	reverse_axes.pro	/^PRO Reverse_Axes_Exit, event$/;"	p
+Reverse_Axes_Output	reverse_axes.pro	/^PRO Reverse_Axes_Output, event$/;"	p
+Reverse_Axes_Printing	reverse_axes.pro	/^PRO Reverse_Axes_Printing, event$/;"	p
+Reverse_Axes_Resize	reverse_axes.pro	/^PRO Reverse_Axes_Resize, event$/;"	p
+Reverse_Axes_Style	reverse_axes.pro	/^PRO Reverse_Axes_Style, event$/;"	p
+STR_SIZE	str_size.pro	/^FUNCTION STR_SIZE, theString, targetWidth, \$$/;"	f
+SaveToMain	savetomain.pro	/^PRO SaveToMain, data, name$/;"	p
+ScaleModis	scalemodis.pro	/^FUNCTION ScaleModis, red, grn, blu, RANGE=range, CLOUD=cloud$/;"	f
+ScaleModis_ScaleIt	scalemodis.pro	/^FUNCTION ScaleModis_ScaleIt, image, input, output$/;"	f
+Scale_Vector	scale_vector.pro	/^FUNCTION Scale_Vector, vector, minRange, maxRange, \$$/;"	f
+ScrollWindow	scrollwindow.pro	/^PRO ScrollWindow, xsize, ysize, \$$/;"	p
+Select_Button_Events	select_objects.pro	/^PRO Select_Button_Events, event$/;"	p
+Select_Cleanup	select_objects.pro	/^PRO Select_Cleanup, tlb$/;"	p
+Select_Objects	select_objects.pro	/^PRO Select_Objects$/;"	p
+Select_Resize	select_objects.pro	/^PRO Select_Resize, event$/;"	p
+SetDecomposedState	setdecomposedstate.pro	/^PRO SetDecomposedState, state, CURRENTSTATE=currentState, DEPTH=depth, ZDEPTH=zdepth$/;"	p
+SetDefaultValue	setdefaultvalue.pro	/^PRO SetDefaultValue, argument, defaultValue, BOOLEAN=boolean$/;"	p
+SetDifference	setdifference.pro	/^FUNCTION SetDifference, set_a, set_b, \$$/;"	f
+SetIntersection	setintersection.pro	/^FUNCTION SetIntersection, set_a, set_b, \$$/;"	f
+SetUnion	setunion.pro	/^FUNCTION SetUnion, set_a, set_b$/;"	f
+ShapeInfo	shapeinfo.pro	/^PRO ShapeInfo, filename, XRANGE=xrange, YRANGE=yrange$/;"	p
+ShapeInfo_Cleanup	shapeinfo.pro	/^PRO ShapeInfo_Cleanup, tlb$/;"	p
+ShapeInfo_Events	shapeinfo.pro	/^PRO ShapeInfo_Events, event$/;"	p
+Sharpen	sharpen.pro	/^FUNCTION Sharpen, image, Display=display, Kernel=kernel$/;"	f
+Sharpen_HistoMatch	sharpen.pro	/^FUNCTION Sharpen_HistoMatch, image, histogram_to_match$/;"	f
+Simple_Surface	simple_surface.pro	/^PRO Simple_Surface, data, x, y, _Extra=extra, XTitle=xtitle, \$$/;"	p
+Simple_Surface_Cleanup	simple_surface.pro	/^Pro Simple_Surface_Cleanup, tlb$/;"	p
+Simple_Surface_Draw_Events	simple_surface.pro	/^PRO Simple_Surface_Draw_Events, event$/;"	p
+Simple_Surface_Exit	simple_surface.pro	/^PRO Simple_Surface_Exit, event$/;"	p
+Simple_Surface_Output	simple_surface.pro	/^PRO Simple_Surface_Output, event$/;"	p
+Simple_Surface_Printing	simple_surface.pro	/^PRO Simple_Surface_Printing, event$/;"	p
+Simple_Surface_Resize	simple_surface.pro	/^PRO Simple_Surface_Resize, event$/;"	p
+Simple_Surface_Style	simple_surface.pro	/^PRO Simple_Surface_Style, event$/;"	p
+StationPlot	stationplot.pro	/^PRO StationPlot, xc, yc, Radius=radius, Color=color, Thick=thick$/;"	p
+SymCat	symcat.pro	/^FUNCTION SymCat, theSymbol, THICK=thick, COLOR=color$/;"	f
+TEST_ISHDF	hdfread.pro	/^FUNCTION TEST_ISHDF,filename$/;"	f
+TEXTLINEFORMAT	textlineformat.pro	/^FUNCTION TEXTLINEFORMAT, theText, LENGTH=length$/;"	f
+TVIMAGE	tvimage.pro	/^PRO TVIMAGE, image, x, y, \$$/;"	p
+TVIMAGE_PREPARE_ALPHA	tvimage.pro	/^FUNCTION TVIMAGE_PREPARE_ALPHA, image, position, alphaBackgroundImage, \$$/;"	f
+TVINFO	tvinfo.pro	/^PRO TVINFO, image, position$/;"	p
+TVREAD	tvread.pro	/^FUNCTION TVREAD, xstart, ystart, ncols, nrows, \$$/;"	f
+TVSCALE	tvscale.pro	/^PRO TVSCALE, image, x, y, \$$/;"	p
+TextBox	textbox.pro	/^FUNCTION TextBox, Title=title, Label=label, Cancel=cancel, \$$/;"	f
+TextBox_CenterTLB	textbox.pro	/^PRO TextBox_CenterTLB, tlb$/;"	p
+TextBox_Event	textbox.pro	/^PRO TextBox_Event, event$/;"	p
+Texture_Surface	texture_surface.pro	/^PRO Texture_Surface, surfaceData, x, y, _Extra=extra, XTitle=xtitle, \$$/;"	p
+Texture_Surface_Cleanup	texture_surface.pro	/^Pro Texture_Surface_Cleanup, tlb$/;"	p
+Texture_Surface_Draw_Events	texture_surface.pro	/^PRO Texture_Surface_Draw_Events, event$/;"	p
+Texture_Surface_Exit	texture_surface.pro	/^PRO Texture_Surface_Exit, event$/;"	p
+Texture_Surface_Output	texture_surface.pro	/^PRO Texture_Surface_Output, event$/;"	p
+Texture_Surface_Printing	texture_surface.pro	/^PRO Texture_Surface_Printing, event$/;"	p
+Texture_Surface_Resize	texture_surface.pro	/^PRO Texture_Surface_Resize, event$/;"	p
+Texture_Surface_Style	texture_surface.pro	/^PRO Texture_Surface_Style, event$/;"	p
+TheMonths	themonths.pro	/^FUNCTION TheMonths, index, \$$/;"	f
+TimeStamp	timestamp.pro	/^FUNCTION TimeStamp, format, \$$/;"	f
+Transform_Volume	transform_volume.pro	/^FUNCTION Transform_Volume, volume, Rotation=rotation, \$$/;"	f
+UNDEFINE	undefine.pro	/^PRO UNDEFINE, var0, var1, var2, var3, var4, var5, var6, var7, var8, var9$/;"	p
+VColorBar::Clamp	vcolorbar__define.pro	/^PRO VColorBar::Clamp, datarange$/;"	p
+VColorBar::Cleanup	vcolorbar__define.pro	/^PRO VColorBar::Cleanup$/;"	p
+VColorBar::Cleanup	xcontour.pro	/^PRO VColorBar::Cleanup$/;"	p
+VColorBar::GetProperty	vcolorbar__define.pro	/^PRO VColorBar::GetProperty, Position=position, Text=text, \$$/;"	p
+VColorBar::GetProperty	xcontour.pro	/^PRO VColorBar::GetProperty, Position=position, Text=text, \$$/;"	p
+VColorBar::INIT	vcolorbar__define.pro	/^FUNCTION VColorBar::INIT, Position=position, \$$/;"	f
+VColorBar::INIT	xcontour.pro	/^FUNCTION VColorBar::INIT, Position=position, \$$/;"	f
+VColorBar::SetProperty	vcolorbar__define.pro	/^PRO VColorBar::SetProperty, Position=position, \$$/;"	p
+VColorBar::SetProperty	xcontour.pro	/^PRO VColorBar::SetProperty, Position=position, \$$/;"	p
+VColorBar__Define	vcolorbar__define.pro	/^PRO VColorBar__Define$/;"	p
+VColorBar__Define	xcontour.pro	/^PRO VColorBar__Define$/;"	p
+WhoAmI	whoami.pro	/^FUNCTION WhoAmI$/;"	f
+WhoCalledMe	whocalledme.pro	/^FUNCTION WhoCalledMe$/;"	f
+Windbarb	windbarb.pro	/^PRO Windbarb, x, y, wspeed, wdirection, \$$/;"	p
+WindowAvailable	windowavailable.pro	/^FUNCTION WindowAvailable, windowID$/;"	f
+WindowImage	windowimage.pro	/^PRO WindowImage, image, \$$/;"	p
+WindowImage_Display	windowimage.pro	/^PRO WindowImage_Display, info$/;"	p
+WindowImage_DrawEvents	windowimage.pro	/^PRO WindowImage_DrawEvents, event$/;"	p
+WindowImage_OriginalSettings	windowimage.pro	/^PRO WindowImage_OriginalSettings, event$/;"	p
+WindowImage_Quit	windowimage.pro	/^PRO WindowImage_Quit, event$/;"	p
+WindowImage_Resize	windowimage.pro	/^PRO WindowImage_Resize, event$/;"	p
+XCOLORS	xcolors.pro	/^PRO XCOLORS, \$$/;"	p
+XCOLORS_BOTTOM_SLIDER	xcolors.pro	/^PRO XCOLORS_BOTTOM_SLIDER, event$/;"	p
+XCOLORS_CANCEL	xcolors.pro	/^PRO XCOLORS_CANCEL, event$/;"	p
+XCOLORS_CLEANUP	xcolors.pro	/^PRO XCOLORS_CLEANUP, tlb$/;"	p
+XCOLORS_COLORTABLE	xcolors.pro	/^PRO XCOLORS_COLORTABLE, event$/;"	p
+XCOLORS_DISMISS	xcolors.pro	/^PRO XCOLORS_DISMISS, event$/;"	p
+XCOLORS_GAMMA_SLIDER	xcolors.pro	/^PRO XCOLORS_GAMMA_SLIDER, event$/;"	p
+XCOLORS_PROTECT_COLORS	xcolors.pro	/^PRO XCOLORS_PROTECT_COLORS, event$/;"	p
+XCOLORS_REVERSE_BUTTON	xcolors.pro	/^PRO XCOLORS_REVERSE_BUTTON, event$/;"	p
+XCOLORS_SWITCH_COLORS	xcolors.pro	/^PRO XCOLORS_SWITCH_COLORS, event$/;"	p
+XCOLORS_TOP_SLIDER	xcolors.pro	/^PRO XCOLORS_TOP_SLIDER, event$/;"	p
+XColors_Congrid	xcolors.pro	/^Function XColors_Congrid, arr, x, y, z, INTERP=int, MINUS_ONE=m1, CUBIC = cubic$/;"	f
+XColors_NotifyObj__Define	xcolors.pro	/^PRO XColors_NotifyObj__Define$/;"	p
+XColors_Set	xcolors.pro	/^PRO XColors_Set, info$/;"	p
+XContour	xcontour.pro	/^PRO XContour, data, x, y, _Extra=extra, XTitle=xtitle, \$$/;"	p
+XContour_Cleanup	xcontour.pro	/^PRO XContour_Cleanup, tlb$/;"	p
+XContour_Draw_Events	xcontour.pro	/^PRO XContour_Draw_Events, event$/;"	p
+XContour_Exit	xcontour.pro	/^PRO XContour_Exit, event$/;"	p
+XContour_Output	xcontour.pro	/^PRO XContour_Output, event$/;"	p
+XContour_Printing	xcontour.pro	/^PRO XContour_Printing, event$/;"	p
+XContour_Properties	xcontour.pro	/^PRO XContour_Properties, event$/;"	p
+XContour_Resize	xcontour.pro	/^PRO XContour_Resize, event$/;"	p
+XIMAGE	ximage.pro	/^PRO XIMAGE, image, XRange=xrange, YRange=yrange, \$$/;"	p
+XIMAGE_CLEANUP	ximage.pro	/^PRO XIMAGE_CLEANUP, id$/;"	p
+XImage_Aspect	ximage.pro	/^FUNCTION XImage_Aspect, aspectRatio, MARGIN=margin, WindowAspect=wAspectRatio$/;"	f
+XImage_DrawWidget_Event	ximage.pro	/^PRO XImage_DrawWidget_Event, event$/;"	p
+XImage_Exit	ximage.pro	/^PRO XImage_Exit, event$/;"	p
+XImage_Image_Colors	ximage.pro	/^PRO XImage_Image_Colors, event$/;"	p
+XImage_Output	ximage.pro	/^PRO XImage_Output, event$/;"	p
+XImage_Printing	ximage.pro	/^PRO XImage_Printing, event$/;"	p
+XImage_Processing	ximage.pro	/^PRO XImage_Processing, event$/;"	p
+XImage_Resize	ximage.pro	/^PRO XImage_Resize, event$/;"	p
+XImage_Zoom_Button_Event	ximage.pro	/^PRO XImage_Zoom_Button_Event, event$/;"	p
+XMOVIE	xmovie.pro	/^PRO XMOVIE, data, GROUP=group, TITLE=title$/;"	p
+XMOVIE_CLEANUP	xmovie.pro	/^PRO XMOVIE_CLEANUP, tlb$/;"	p
+XMOVIE_DELAY_EVENTS	xmovie.pro	/^PRO XMOVIE_DELAY_EVENTS, event$/;"	p
+XMOVIE_EVENT	xmovie.pro	/^PRO XMOVIE_EVENT, event$/;"	p
+XPlot	xplot.pro	/^PRO XPlot, xx, yy, _Extra=extra, PSym=psym, Title=title, SymSize=symSize, \$$/;"	p
+XPlot_Aspect	xplot.pro	/^FUNCTION XPlot_Aspect, aspectRatio, MARGIN=margin, WindowAspect=wAspectRatio$/;"	f
+XPlot_ColorSchemes	xplot.pro	/^PRO XPlot_ColorSchemes, event$/;"	p
+XPlot_Draw_Widget_Events	xplot.pro	/^PRO XPlot_Draw_Widget_Events, event$/;"	p
+XPlot_Exit	xplot.pro	/^PRO XPlot_Exit, event$/;"	p
+XPlot_Linestyle	xplot.pro	/^PRO XPlot_Linestyle, event$/;"	p
+XPlot_Output	xplot.pro	/^PRO XPlot_Output, event$/;"	p
+XPlot_Printing	xplot.pro	/^PRO XPlot_Printing, event$/;"	p
+XPlot_Resize_Events	xplot.pro	/^PRO XPlot_Resize_Events, event$/;"	p
+XPlot_Symbol	xplot.pro	/^PRO XPlot_Symbol, event$/;"	p
+XPlot_SymbolSize	xplot.pro	/^PRO XPlot_SymbolSize, event$/;"	p
+XSTRETCH	xstretch.pro	/^PRO XSTRETCH, theImage, \$$/;"	p
+XSTRETCH_CLEANUP	xstretch.pro	/^PRO XSTRETCH_CLEANUP, tlb$/;"	p
+XSTRETCH_COLORS	xstretch.pro	/^PRO XSTRETCH_COLORS, event$/;"	p
+XSTRETCH_DRAWLINES	xstretch.pro	/^PRO XSTRETCH_DRAWLINES, minThresh, maxThresh, info$/;"	p
+XSTRETCH_FLIPIMAGE	xstretch.pro	/^PRO XSTRETCH_FLIPIMAGE, event$/;"	p
+XSTRETCH_GAMMA	xstretch.pro	/^PRO XSTRETCH_GAMMA, event$/;"	p
+XSTRETCH_HISTOGRAM_RESIZE	xstretch.pro	/^PRO XSTRETCH_HISTOGRAM_RESIZE, event$/;"	p
+XSTRETCH_HISTOPLOT	xstretch.pro	/^PRO XSTRETCH_HISTOPLOT, info, \$$/;"	p
+XSTRETCH_IMAGEWINDOWKILLED	xstretch.pro	/^PRO XSTRETCH_IMAGEWINDOWKILLED, imageWindowID$/;"	p
+XSTRETCH_IMAGE_RESIZE	xstretch.pro	/^PRO XSTRETCH_IMAGE_RESIZE, event$/;"	p
+XSTRETCH_MAXVALUE	xstretch.pro	/^PRO XSTRETCH_MAXVALUE, event$/;"	p
+XSTRETCH_MOVELINE	xstretch.pro	/^PRO XSTRETCH_MOVELINE, event$/;"	p
+XSTRETCH_NEGATIVE	xstretch.pro	/^PRO XSTRETCH_NEGATIVE, event$/;"	p
+XSTRETCH_NOTIFYOTHERS	xstretch.pro	/^PRO XSTRETCH_NOTIFYOTHERS, info$/;"	p
+XSTRETCH_OPENIMAGE	xstretch.pro	/^PRO XSTRETCH_OPENIMAGE, event$/;"	p
+XSTRETCH_PARAMETERS	xstretch.pro	/^PRO XSTRETCH_PARAMETERS, event$/;"	p
+XSTRETCH_PRINT	xstretch.pro	/^PRO XSTRETCH_PRINT, event$/;"	p
+XSTRETCH_PROCESS_EVENTS	xstretch.pro	/^PRO XSTRETCH_PROCESS_EVENTS, event$/;"	p
+XSTRETCH_QUIT	xstretch.pro	/^PRO XSTRETCH_QUIT, event$/;"	p
+XSTRETCH_RESTORE	xstretch.pro	/^PRO XSTRETCH_RESTORE, event$/;"	p
+XSTRETCH_SAVEAS	xstretch.pro	/^PRO XSTRETCH_SAVEAS, event$/;"	p
+XSTRETCH_SAVEHISTOAS	xstretch.pro	/^PRO XSTRETCH_SAVEHISTOAS, event$/;"	p
+XSTRETCH_SAVETOMAIN	xstretch.pro	/^PRO XSTRETCH_SAVETOMAIN, event$/;"	p
+XSTRETCH_SCALEIMAGE	xstretch.pro	/^FUNCTION XSTRETCH_SCALEIMAGE, info$/;"	f
+XSTRETCH_SETTHRESHOLD	xstretch.pro	/^PRO XSTRETCH_SETTHRESHOLD, event$/;"	p
+XSTRETCH_STRETCHTYPE	xstretch.pro	/^PRO XSTRETCH_STRETCHTYPE, event$/;"	p
+XSTRETCH_VALIDATE_THRESHOLD	xstretch.pro	/^FUNCTION XSTRETCH_VALIDATE_THRESHOLD, threshold, info$/;"	f
+XSurface	xsurface.pro	/^PRO XSurface, data, x, y, _Extra=extra, XTitle=xtitle, \$$/;"	p
+XSurface_Aspect	xsurface.pro	/^FUNCTION XSurface_Aspect, aspectRatio, MARGIN=margin, WindowAspect=wAspectRatio$/;"	f
+XSurface_Cleanup	xsurface.pro	/^Pro XSurface_Cleanup, tlb$/;"	p
+XSurface_Draw_Events	xsurface.pro	/^PRO XSurface_Draw_Events, event$/;"	p
+XSurface_Elevation_Colors	xsurface.pro	/^PRO XSurface_Elevation_Colors, event$/;"	p
+XSurface_Elevation_Shading	xsurface.pro	/^PRO XSurface_Elevation_Shading, event$/;"	p
+XSurface_Exit	xsurface.pro	/^PRO XSurface_Exit, event$/;"	p
+XSurface_Light_Controls	xsurface.pro	/^PRO XSurface_Light_Controls, event$/;"	p
+XSurface_Light_Controls_Event	xsurface.pro	/^PRO XSurface_Light_Controls_Event, event$/;"	p
+XSurface_Light_Done	xsurface.pro	/^PRO XSurface_Light_Done, event$/;"	p
+XSurface_Output	xsurface.pro	/^PRO XSurface_Output, event$/;"	p
+XSurface_Printing	xsurface.pro	/^PRO XSurface_Printing, event$/;"	p
+XSurface_Properties	xsurface.pro	/^PRO XSurface_Properties, event$/;"	p
+XSurface_Resize	xsurface.pro	/^PRO XSurface_Resize, event$/;"	p
+XSurface_Style	xsurface.pro	/^PRO XSurface_Style, event$/;"	p
+Xplot_Cleanup	xplot.pro	/^PRO Xplot_Cleanup, id$/;"	p
+ZOOMBOX	zoombox.pro	/^PRO ZOOMBOX, image, Group_Leader=group, Interpolation=interp, Hardware_Render=hardware, Instance=instance$/;"	p
+ZOOMBOX_BOX_COLOR	zoombox.pro	/^PRO ZOOMBOX_BOX_COLOR, event$/;"	p
+ZOOMBOX_CLEANUP	zoombox.pro	/^PRO ZOOMBOX_CLEANUP, tlb$/;"	p
+ZOOMBOX_COLORS	zoombox.pro	/^PRO ZOOMBOX_COLORS, event$/;"	p
+ZOOMBOX_DRAW_EVENTS	zoombox.pro	/^PRO ZOOMBOX_DRAW_EVENTS, event$/;"	p
+ZOOMBOX_FACTOR	zoombox.pro	/^PRO ZOOMBOX_FACTOR, event$/;"	p
+ZOOMBOX_QUITTER	zoombox.pro	/^PRO ZOOMBOX_QUITTER, event$/;"	p
+ZOOMBOX_ZOOM_CLEANUP	zoombox.pro	/^PRO ZOOMBOX_ZOOM_CLEANUP, tlb$/;"	p
+cgArrow	cgarrow.pro	/^PRO cgArrow, x0, y0, x1, y1, \$$/;"	p
+cgAxis	cgaxis.pro	/^PRO cgAxis, xloc, yloc, zloc, \$$/;"	p
+cgBarplot	cgbarplot.pro	/^PRO cgBarplot , $                   ; The program name.$/;"	p
+cgBlendImage	cgblendimage.pro	/^PRO cgBlendImage, foreGroundImage, backGroundImage, ALPHA=alpha, _EXTRA=extra$/;"	p
+cgBoxPlot_Prepare_Data	cgboxplot.pro	/^FUNCTION cgBoxPlot_Prepare_Data, data, missing_data_value$/;"	f
+cgColor	cgcolor.pro	/^FUNCTION cgColor, theColour, colorIndex, \$$/;"	f
+cgColorFill	cgcolorfill.pro	/^PRO cgColorFill, x, y, z, \$$/;"	p
+cgColor_Color24	cgcolor.pro	/^FUNCTION cgColor_Color24, color$/;"	f
+cgColor_Count_Rows	cgcolor.pro	/^FUNCTION cgColor_Count_Rows, filename, MaxRows = maxrows$/;"	f
+cgColorbar	cgcolorbar.pro	/^PRO cgColorbar, \$$/;"	p
+cgContour	cgcontour.pro	/^PRO cgContour, data, x, y, \$$/;"	p
+cgControl	cgcontrol.pro	/^PRO cgControl, selection, \$$/;"	p
+cgDCBar	cgdcbar.pro	/^PRO cgDCBar, colors, \$$/;"	p
+cgDefCharSize	cgdefcharsize.pro	/^FUNCTION cgDefCharSize, FONT=font$/;"	f
+cgDelete	cgdelete.pro	/^PRO cgDelete, selectMatch, ALL=all, OBJECT=object, WIDGETID=widgetID, TITLE=title$/;"	p
+cgDemoData	cgdemodata.pro	/^FUNCTION cgDemoData, CANCEL=cancel, number, Group_Leader=groupleader, \$$/;"	f
+cgDemoData_CANCEL	cgdemodata.pro	/^PRO cgDemoData_CANCEL, event$/;"	p
+cgDemoData_CenterTLB	cgdemodata.pro	/^PRO cgDemoData_CenterTLB, tlb$/;"	p
+cgDemoData_EVENT	cgdemodata.pro	/^PRO cgDemoData_EVENT, event$/;"	p
+cgDemoData_ReadData	cgdemodata.pro	/^FUNCTION cgDemoData_ReadData, number$/;"	f
+cgDisplay	cgdisplay.pro	/^PRO cgDisplay, pxsize, pysize, \$$/;"	p
+cgErase	cgerase.pro	/^PRO cgErase, background_color, COLOR=color, LAYOUT=layout, WINDOW=window$/;"	p
+cgHistoplot	cghistoplot.pro	/^PRO cgHistoplot, $                    ; The program name.$/;"	p
+cgImage	cgimage.pro	/^PRO cgImage, image, x, y, \$$/;"	p
+cgImageInfo	cgimageinfo.pro	/^PRO cgImageInfo, image, position$/;"	p
+cgImage_PREPARE_ALPHA	cgimage.pro	/^FUNCTION cgImage_PREPARE_ALPHA, image, position, alphaBackgroundImage, \$$/;"	f
+cgLoadCT	cgloadct.pro	/^PRO cgLoadCT, table, \$$/;"	p
+cgPlot	cgplot.pro	/^PRO cgPlot, x, y, \$$/;"	p
+cgPlotS	cgplots.pro	/^PRO cgPlotS, x, y, z, \$$/;"	p
+cgQuery	cgquery.pro	/^FUNCTION cgQuery, \$$/;"	f
+cgSet	cgset.pro	/^PRO cgSet, selection, OBJECT=object, WIDGETID=widgetID, TITLE=title$/;"	p
+cgShow	cgshow.pro	/^PRO cgShow, selection, OBJECT=object, WIDGETID=widgetID, TITLE=title$/;"	p
+cgSnapshot	cgsnapshot.pro	/^FUNCTION cgSnapshot, xstart, ystart, ncols, nrows, \$$/;"	f
+cgSurf	cgsurf.pro	/^PRO cgSurf, data, x, y, \$$/;"	p
+cgSurface	cgsurface.pro	/^PRO cgSurface, data, x, y, \$$/;"	p
+cgSurface_Aspect	cgsurface.pro	/^FUNCTION cgSurface_Aspect, aspectRatio, MARGIN=margin, WindowAspect=wAspectRatio$/;"	f
+cgSurface_Axes_OnOff	cgsurface.pro	/^PRO cgSurface_Axes_OnOff, event$/;"	p
+cgSurface_Bottom_OnOff	cgsurface.pro	/^PRO cgSurface_Bottom_OnOff, event$/;"	p
+cgSurface_Change_Colors	cgsurface.pro	/^PRO cgSurface_Change_Colors, event$/;"	p
+cgSurface_Cleanup	cgsurface.pro	/^PRO cgSurface_Cleanup, tlb$/;"	p
+cgSurface_Draw_Events	cgsurface.pro	/^PRO cgSurface_Draw_Events, event$/;"	p
+cgSurface_Elevation_Colors	cgsurface.pro	/^PRO cgSurface_Elevation_Colors, event$/;"	p
+cgSurface_Elevation_Shading	cgsurface.pro	/^PRO cgSurface_Elevation_Shading, event$/;"	p
+cgSurface_Exit	cgsurface.pro	/^PRO cgSurface_Exit, event$/;"	p
+cgSurface_Light_Controls	cgsurface.pro	/^PRO cgSurface_Light_Controls, event$/;"	p
+cgSurface_Light_Controls_Event	cgsurface.pro	/^PRO cgSurface_Light_Controls_Event, event$/;"	p
+cgSurface_Light_Done	cgsurface.pro	/^PRO cgSurface_Light_Done, event$/;"	p
+cgSurface_Move_Surface	cgsurface.pro	/^PRO cgSurface_Move_Surface, event$/;"	p
+cgSurface_Move_Title	cgsurface.pro	/^PRO cgSurface_Move_Title, event$/;"	p
+cgSurface_Output	cgsurface.pro	/^PRO cgSurface_Output, event$/;"	p
+cgSurface_Properties	cgsurface.pro	/^PRO cgSurface_Properties, event$/;"	p
+cgSurface_Resize	cgsurface.pro	/^PRO cgSurface_Resize, event$/;"	p
+cgSurface_Skirt_OnOff	cgsurface.pro	/^PRO cgSurface_Skirt_OnOff, event$/;"	p
+cgSurface_Style	cgsurface.pro	/^PRO cgSurface_Style, event$/;"	p
+cgText	cgtext.pro	/^PRO cgText, xloc, yloc, text, \$$/;"	p
+cgWindow	cgwindow.pro	/^PRO cgWindow, \$$/;"	p
+cgWindow_GetDefs	cgwindow_getdefs.pro	/^PRO cgWindow_GetDefs, \$$/;"	p
+cgWindow_SetDefs	cgwindow_setdefs.pro	/^PRO cgWindow_SetDefs, \$$/;"	p
+dirlisting::Drive	xcd.pro	/^function dirlisting::Drive$/;"	f
+dirlisting::FileNames	xcd.pro	/^function dirlisting::FileNames$/;"	f
+dirlisting::Path	xcd.pro	/^function dirlisting::Path$/;"	f
+dirlisting::SubdirNames	xcd.pro	/^function dirlisting::SubdirNames$/;"	f
+dirlisting::cleanup	xcd.pro	/^pro dirlisting::cleanup$/;"	p
+dirlisting::init	xcd.pro	/^function dirlisting::init, location$/;"	f
+dirlisting__define	xcd.pro	/^pro dirlisting__define$/;"	p
+iXYOUTS	ixyouts.pro	/^PRO iXYOUTS, theString, ID=id, _EXTRA=extra$/;"	p
+sort_nd	sort_nd.pro	/^function sort_nd, array, dimension$/;"	f
+xcd	xcd.pro	/^pro xcd$/;"	p
+xcd::cleanup	xcd.pro	/^pro xcd::cleanup$/;"	p
+xcd::handle	xcd.pro	/^pro xcd::handle, event$/;"	p
+xcd::init	xcd.pro	/^function xcd::init$/;"	f
+xcd::update	xcd.pro	/^pro xcd::update$/;"	p
+xcd__define	xcd.pro	/^pro xcd__define$/;"	p
+xcd_cleanup	xcd.pro	/^pro xcd_cleanup, tlb$/;"	p
+xcd_event	xcd.pro	/^pro xcd_event, event$/;"	p

@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+available_videoframe	available_videoframe.pro	/^function available_videoframe, s, debug=debug$/;"	f
+aziavg	aziavg.pro	/^function aziavg, _data, \$$/;"	f
+azistd	azistd.pro	/^function azistd, _data, avg, \$$/;"	f
+bpassg	bpassg.pro	/^function bpassg, image, lshort, llong, \$$/;"	f
+close_video	close_video.pro	/^pro close_video, s, debug=debug$/;"	p
+deinterlace	deinterlace.pro	/^function deinterlace, image, odd = odd$/;"	f
+fastfeature	fastfeature.pro	/^function fastfeature, image, threshold, \$$/;"	f
+featureg	featureg.pro	/^function featureg, a, extent, sep,  \$$/;"	f
+fracshift	featureg.pro	/^function fracshift, im, shiftx, shifty$/;"	f
+idlsnap	idlsnap.pro	/^function idlsnap, filename, \$$/;"	f
+is_videostream	is_videostream.pro	/^function is_videostream, s, quiet=quiet$/;"	f
+msd3	msd3.pro	/^function msd3, p, nlags=nlags$/;"	f
+open_videocamera	open_videocamera.pro	/^function open_videocamera, number, \$$/;"	f
+open_videofile	open_videofile.pro	/^function open_videofile, filename, \$$/;"	f
+playvideo	playvideo.pro	/^pro playvideo, filename, \$$/;"	p
+read_gdf	read_gdf.pro	/^function read_gdf, filespec$/;"	f
+read_videoframe	read_videoframe.pro	/^function read_videoframe, s, \$$/;"	f
+rsqd	featureg.pro	/^function rsqd, w, h$/;"	f
+trackg	trackg.pro	/^function trackg, xyzs, maxdisp, \$$/;"	f
+trapcal	trapcal.pro	/^function trapcal, r, drsq$/;"	f
+write_gdf	write_gdf.pro	/^pro write_gdf, data, file, ascii=ascii$/;"	p

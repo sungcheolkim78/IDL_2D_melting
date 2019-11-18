@@ -1,0 +1,74 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+UNQ	track.pro	/^function UNQ, ARRAY, IDX$/;"	f
+avgbin	avgbin.pro	/^function avgbin,data,datab,binsize=binsize,quiet=quiet,more=more,\$$/;"	f
+avgstd	avgstd.pro	/^pro avgstd,data,result,quiet=quiet,loop=loop,more=more$/;"	p
+big	big.pro	/^function big,image,fix=fix,scale=scale$/;"	f
+bpass	bpass.pro	/^function bpass, image, lnoise, lobject, field = field, noclip=noclip$/;"	f
+bpass3d	bpass3d.pro	/^function bpass3d, image, lnoise, lobject, noclip=noclip, nopad = nopad$/;"	f
+bw2hotcold	bw2hotcold.pro	/^function bw2hotcold,grey,noscale=noscale$/;"	f
+bw2rgb	bw2rgb.pro	/^function bw2rgb,grey,noscale=noscale$/;"	f
+bw2rgb2	bw2rgb2.pro	/^function bw2rgb2,grey,noscale=noscale$/;"	f
+catptdata	catptdata.pro	/^function catptdata,fname$/;"	f
+catptdata2	catptdata2.pro	/^function catptdata2,fname$/;"	f
+checkquadrant	ericgr2d.pro	/^function checkquadrant,pos0,xref,yref,hix=hix,hiy=hiy, \$$/;"	f
+colcylinder	mkpov.pro	/^pro colcylinder,posa,posb$/;"	p
+colsphere	mkpov.pro	/^pro colsphere,pos,rgb,rad=rad$/;"	p
+dpiv	dpiv.pro	/^function dpiv,img1,img2,maxdisp,spacing=spacing,stretch=stretch,\$$/;"	f
+eclip	eclip.pro	/^function eclip,data,\$$/;"	f
+epiv	epiv.pro	/^function epiv,img1,img2,maxdisp,spacing=spacing,stretch=stretch,\$$/;"	f
+epretrack	epretrack.pro	/^pro epretrack,stk, \$$/;"	p
+ericgr2d	ericgr2d.pro	/^function ericgr2d,data,rmin=rmin,rmax=rmax,deltar=deltar,track=track,quiet=quiet$/;"	f
+ericgr3d	ericgr3d.pro	/^function ericgr3d,data,track=track,rmin=rmin,rmax=rmax, \$$/;"	f
+feature	feature.pro	/^function feature, image, extent, sep,  min=min, masscut = masscut, field = field,\$$/;"	f
+fieldof	feature.pro	/^function fieldof,array,odd=odd,even=even$/;"	f
+fo_circ	fover2d.pro	/^function fo_circ,array,radius=radius,center=center,circle=circle$/;"	f
+fover2d	fover2d.pro	/^function fover2d,image,points,radius=radius,big=big,nodot=nodot, \$$/;"	f
+fracshift	feature.pro	/^function fracshift,im,shiftx,shifty$/;"	f
+gdxtrinterp	getdx.pro	/^function gdxtrinterp,tarray,flag=flag$/;"	f
+get_drs	msd.pro	/^function get_drs,t,dt,erode=erode,dim=dim$/;"	f
+get_polygon	polycut.pro	/^function get_polygon,device=device,data=data,normal=normal,linestyle=linestyle$/;"	f
+getdx	getdx.pro	/^function getdx,tr,thedt,dim=dim$/;"	f
+jpretrack	jpretrack.pro	/^pro jpretrack,name,whammy,invert=invert,field=field,first=first,fskip=fskip,\$$/;"	p
+lmx	feature.pro	/^function lmx, image, sep, min = min, field = field$/;"	f
+lsf2d	dpiv.pro	/^function lsf2d, image,try1,try2,xxa,yya,accur$/;"	f
+lsf2d	epiv.pro	/^function lsf2d, image,try1,try2,xxa,yya,accur$/;"	f
+ltrinterp_vb	msd.pro	/^pro ltrinterp_vb,tarray$/;"	p
+luberize	track.pro	/^function luberize,tracks,presort=presort,start=start$/;"	f
+man	man.pro	/^pro man,fname$/;"	p
+mkpdf	mkpdf.pro	/^function mkpdf,tr,dt,dim=dim$/;"	f
+mkpov	mkpov.pro	/^pro mkpov,pts,filename,zmag=zmag,bw=bw,radius=radius,nobox=nobox, \$$/;"	p
+mollify	dpiv.pro	/^function mollify,image,error $/;"	f
+mollify	epiv.pro	/^function mollify,image,error $/;"	f
+mot_eintegrate	rm_motion.pro	/^function mot_eintegrate,data$/;"	f
+motion	motion.pro	/^function motion,tr,dim=dim,smoo=smoo $/;"	f
+msd	msd.pro	/^function msd,tracks,maxtime=maxtime,outfile=outfile,micperpix=micperpix,\$$/;"	f
+p_in_poly	polycut.pro	/^function p_in_poly, pnts, polygon, convex = convex$/;"	f
+pip	polycut.pro	/^function pip, pnt, polygon $/;"	f
+pip2	polycut.pro	/^function pip2, p, ply$/;"	f
+pivplot	pivplot.pro	/^pro pivplot,pivdata,spacing=spacing,calib=calib,nodot=nodot,scale=scale, \$$/;"	p
+plot_hist	plot_hist.pro	/^pro plot_hist,d,data,coff,nterms=nterms,fit=fit,xrange=xrange,binsize=binsize,\$$/;"	p
+plottr	plottr.pro	/^pro plottr,tarray,result,goodenough=goodenough,tv=tv,noconnect=noconnect, \$$/;"	p
+plotx	plotx.pro	/^pro plotx,tra,nparticle,xx=xx,yy=yy,zz=zz,result,izz=izz, \$$/;"	p
+polycut	polycut.pro	/^function polycut,inputdata,polygon,f1=f1,f2=f2,invert=invert, \$$/;"	f
+pt_eline	plottr.pro	/^function pt_eline,pt1,pt2$/;"	f
+pt_lentrk	plottr.pro	/^function pt_lentrk,t$/;"	f
+px_circ	plotx.pro	/^function px_circ,radius = radius, thick = thick, fill = fill,\$$/;"	f
+read_gdf	read_gdfe.pro	/^function read_gdf,filespec$/;"	f
+read_nih	read_nih.pro	/^function read_nih,fname,first=first,last=last$/;"	f
+readtiffstack	readtiffstack_o.pro	/^function readtiffstack,imagefile,rect=rect,start_frame=start_frame, \$$/;"	f
+redsphere	mkpov.pro	/^pro redsphere,pos,rad=rad$/;"	p
+rm_motion	rm_motion.pro	/^function rm_motion,tra,mot,dim=dim,smooth=smooth,justplot=justplot,  \$$/;"	f
+rsqd	feature.pro	/^function rsqd,w,h$/;"	f
+sa_lentrk	seeall.pro	/^function sa_lentrk,t$/;"	f
+seeall	seeall.pro	/^pro seeall,tr,dot=dot,izz=izz,dr=dr,short=short,noz=noz,id=id, \$$/;"	p
+stkpretrack	stkpretrack.pro	/^function stkpretrack,stk, \$$/;"	f
+subgr	ericgr3d.pro	/^function subgr,data,rmin,rmax,deltar,lilnbar=lilnbar,enone=enone$/;"	f
+textplot	textplot.pro	/^pro textplot,xdata,ydata$/;"	p
+thetarr	feature.pro	/^function thetarr,w$/;"	f
+track	track.pro	/^function track,xyzs,maxdisp,inipos=inipos,memory=memory,dim=dim,\$$/;"	f
+write_gdf	write_gdfe.pro	/^pro write_gdf, data, file, ascii=ascii$/;"	p

@@ -1,0 +1,43 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+GETPOS	getpos.pro	/^FUNCTION GETPOS, ASPECT, POSITION=POSITION, MARGIN=MARGIN$/;"	f
+GET_PEAK_POS	get_peak_pos.pro	/^function GET_PEAK_POS,  x,y,npeaks,                \$$/;"	f
+IMDISP	imdisp.pro	/^PRO IMDISP, IMAGE, POSITION=POSITION, OUT_POS=OUT_POS, \$$/;"	p
+IMSCALE	imscale.pro	/^FUNCTION IMSCALE, IMAGE, RANGE=RANGE, \$$/;"	f
+IMSIZE	imsize.pro	/^PRO IMSIZE, IMAGE, X0, Y0, XSIZE, YSIZE, ASPECT=ASPECT, \$$/;"	p
+Make_MPEG_Movie	make_mpeg_movie.pro	/^PRO Make_MPEG_Movie, data, Color=color, Table=table$/;"	p
+Make_Set	make_set.pro	/^FUNCTION Make_Set,x,y1,y2,y3,y4,y5,y6,y7,y8, ToFile=tofile, group=group, \$$/;"	f
+PeakFinder	peakfinder.pro	/^FUNCTION PeakFinder,y,x, Group=group, Sort=sort, \$$/;"	f
+TVIMAGE	tvimage.pro	/^PRO TVIMAGE, image, x, y, \$$/;"	p
+TVIMAGE_PREPARE_ALPHA	tvimage.pro	/^FUNCTION TVIMAGE_PREPARE_ALPHA, image, position, alphaBackgroundImage, \$$/;"	f
+WRITE_MPEG	write_mpeg.pro	/^PRO WRITE_MPEG, mpegFileName, image_array, delaft=delaft, rep=rep$/;"	p
+al_legend	al_legend.pro	/^pro al_legend, items, BOTTOM_LEGEND=bottom, BOX = box, CENTER_LEGEND=center, \$$/;"	p
+cgPlot	cgplot.pro	/^PRO cgPlot, x, y, \$$/;"	p
+cgPlotS	cgplots.pro	/^PRO cgPlotS, x, y, z, \$$/;"	p
+cgQuery	cgquery.pro	/^FUNCTION cgQuery, \$$/;"	f
+cgSnapshot	cgsnapshot.pro	/^FUNCTION cgSnapshot, xstart, ystart, ncols, nrows, \$$/;"	f
+fp_gaussian	get_peak_pos.pro	/^function fp_gaussian,x,area,center,fwhm$/;"	f
+get_item	parse_noran.pro	/^function get_item,headstr,trgtstr,string=string$/;"	f
+latexify	latexify.pro	/^pro latexify, filename, tag, tex, scale, outname=outname, example=example,\$$/;"	p
+ls	ls.pro	/^pro ls, string$/;"	p
+oploterror	oploterror.pro	/^PRO  oploterror, x, y, xerr, yerr, NOHAT=hat, HATLENGTH=hln, ERRTHICK=eth, \$$/;"	p
+padzero	padzero.pro	/^function padzero, arr, decimal$/;"	f
+parse_noran	parse_noran.pro	/^function parse_noran,filename,nx=nx,ny=ny,nz=nz,\$$/;"	f
+ploterror	ploterror.pro	/^PRO ploterror, x, y, xerr, yerr, NOHAT=hat, HATLENGTH=hln, ERRTHICK=eth, \$$/;"	p
+ps_mod	ps_mod.pro	/^pro ps_mod, filename, x0=x0, y0=y0, x1=x1, y1=y1, \$$/;"	p
+pseudo_to_true	write_mpeg.pro	/^FUNCTION pseudo_to_true, image8$/;"	f
+read_noran	read_noran.pro	/^function read_noran,filename,lomem=lomem,res=res$/;"	f
+rstring	rstring.pro	/^function rstring, var, _extra=_extra, pad=pad$/;"	f
+sdep	sdep.pro	/^Function sdep, DS=ds, PS=ps, VF=vf, VS=vs, W=w$/;"	f
+splog	splog.pro	/^pro splog, noname=noname, prelog=prelog, \$$/;"	p
+splog_trim	splog.pro	/^function splog_trim, v$/;"	f
+statusline	statusline.pro	/^pro statusline, str, col, length=length, clear=clear, \$$/;"	p
+str_replace	str_replace.pro	/^function str_replace, str, pattern, replacement, evaluate=evaluate, \$$/;"	f
+strgof	parse_noran.pro	/^function strgof,num$/;"	f
+tag_exist	tag_exist.pro	/^function tag_exist, str, tag,index=index, top_level=top_level,recurse=recurse, \$$/;"	f
+test_peak	get_peak_pos.pro	/^pro test_peak$/;"	p
+voigt1	voigt1.pro	/^FUNCTION voigt1,x,a$/;"	f
